@@ -9,6 +9,10 @@ on:
         description: "Dry run (print only, post nothing)"
         type: boolean
         default: true
+      check:
+        description: "Token check only (posts nothing)"
+        type: boolean
+        default: false
       only_id:
         description: "Post just this queue id now (leave blank for normal run)"
         type: string
@@ -38,6 +42,7 @@ jobs:
           RAW_BASE: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && '1' || '0' }}
           ONLY_ID: ${{ inputs.only_id }}
+          CHECK: ${{ inputs.check && '1' || '0' }}
         run: python scripts/publish.py
       - name: Save what was posted
         if: always()

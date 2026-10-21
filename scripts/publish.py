@@ -139,7 +139,25 @@ def main():
     sys.exit(1 if failed else 0)
 
 
+def check():
+    """Read-only test: confirms the token works and says whether it expires. Posts nothing."""
+    me = call("GET", "me", fields="id,name")
+    print(f"Token belongs to: {me.get('name')} ({me.get('id')})")
+    info = call("GET", "debug_token", input_token=TOKEN).get("data", {})
+    exp = info.get("expires_at")
+    print(f"Token type: {info.get('type')}  valid: {info.get('is_valid')}")
+    print("Expires: never" if exp == 0 else f"Expires at (unix): {exp}")
+    print(f"Permissions: {', '.join(sorted(info.get('scopes', [])))}")
+    ig = call("GET", IG, fields="username")
+    print(f"Instagram account reachable: @{ig.get('username')}")
+    limit = call("GET", f"{IG}/content_publishing_limit", fields="quota_usage,config")
+    print(f"Publishing quota: {limit}")
+
+
 if __name__ == "__main__":
+    if os.environ.get("CHECK") == "1":
+        check()
+        sys.exit(0)
     for name, val in (("META_PAGE_TOKEN", TOKEN), ("IG_USER_ID", IG), ("FB_PAGE_ID", PAGE), ("RAW_BASE", RAW)):
         if not val and not DRY:
             sys.exit(f"Missing {name}")
