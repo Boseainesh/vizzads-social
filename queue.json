@@ -7,13 +7,14 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "images": [
         "posts/2026-10-22-competitor-tracking/22oct-competitor-tracking.jpg"
       ],
       "linkedin_text": "A peek at something we've built in-house at @Vizz Ads.\n\nFor every client, we track what their competitors are running on Meta. Every live ad, grouped by idea, sorted by format, hook and offer.\n\nThis one (brand anonymised) took about five minutes to read and told us:\n\n→ Their competitor is running far more video than static\n→ The same three hooks show up again and again\n→ They've quietly been leaning on discount offers\n\nThat's a creative brief, written by the market.\n\nMost ad partners check competitors once, at the pitch, and never again. Day-to-day account work always wins over \"we'll look at that later\".\n\nSo we built it to run without anyone having to remember.\n\nWhat do you check about your competitors, and how often?",
       "alt": "Vizz Ads card: A creative brief, written by the market.",
-      "code": "22-LI"
+      "code": "22-LI",
+      "approved_at": "2026-10-21 17:11 UTC"
     },
     {
       "id": "2026-10-22-competitor-tracking",
@@ -22,7 +23,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "images": [
         "posts/2026-10-22-competitor-tracking/22oct-competitor-tracking.jpg"
       ],
@@ -32,7 +33,8 @@
       "x_images": [
         "posts/2026-10-22-competitor-tracking/22oct-competitor-tracking.jpg"
       ],
-      "code": "22-IGFB"
+      "code": "22-IGFB",
+      "approved_at": "2026-10-21 17:11 UTC"
     },
     {
       "id": "2026-10-23-5-checks",
@@ -41,7 +43,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "images": [
         "posts/2026-10-23-5-checks/23oct-ig-5-checks-1.jpg",
         "posts/2026-10-23-5-checks/23oct-ig-5-checks-2.jpg",
@@ -62,7 +64,8 @@
         "5. Who is it really reaching?\n\nGreat ROAS can just be people who would have bought anyway. Check new vs returning customers, not just ROAS.\n\nWhich one would worry you most?"
       ],
       "x_note": "One slide per post: slide 1 on post 1, slides 2-6 on posts 2-6. Reply to the last post with vizzads.com.",
-      "code": "23-IGFB"
+      "code": "23-IGFB",
+      "approved_at": "2026-10-21 17:11 UTC"
     },
     {
       "id": "2026-10-27-linkedin-eight-months",
@@ -70,10 +73,11 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "images": [],
       "linkedin_text": "Eight months ago I went independent and started @Vizz Ads.\n\nA few honest lessons so far:\n\n1. Running ads is the easy part.\nAfter 13 years, the work itself felt familiar from day one. Finding the right clients is the real job.\n\n2. Saying no is a skill.\nSome briefs weren't the right fit. Turning them down early saved everyone time.\n\n3. Being small is an advantage.\nClients get the person who actually does the work. No handoffs, no juniors, no waiting.\n\n4. Building in public feels uncomfortable.\nPosting here still doesn't come naturally. But every conversation that's started from a post has been worth it.\n\n5. The network you built before matters more than you think.\nThank you to everyone who's reached out, referred someone, or just cheered from the sidelines.\n\nStill early. Still learning. Grateful for all of it.",
-      "code": "27-LI"
+      "code": "27-LI",
+      "approved_at": "2026-10-21 17:11 UTC"
     },
     {
       "id": "2026-10-27-person-on-the-call",
@@ -82,7 +86,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "images": [
         "posts/2026-10-27-person-on-the-call/27oct-person-on-the-call-1-navy.jpg",
         "posts/2026-10-27-person-on-the-call/27oct-person-on-the-call-2-cream.jpg",
@@ -94,7 +98,8 @@
       "x_images": [
         "posts/2026-10-27-person-on-the-call/27oct-person-on-the-call-1-navy.jpg"
       ],
-      "code": "27-IGFB"
+      "code": "27-IGFB",
+      "approved_at": "2026-10-21 17:11 UTC"
     },
     {
       "id": "2026-10-29-linkedin-black-friday",
@@ -102,13 +107,14 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "images": [
         "posts/2026-10-29-black-friday/29oct-black-friday-1.jpg"
       ],
       "linkedin_text": "Black Friday is four weeks away. Most brands will start planning their ads in three.\n\nWhat wins Black Friday happens now, not in November. Here's what we're doing with @Vizz Ads clients this week:\n\n→ Test your creative now\nYou need proven ads going in, not untested ones. Launch new concepts now so you know your winners before costs spike.\n\n→ Build your warm audiences\nAd costs climb sharply in late November. People who've already engaged with you are far cheaper to convert. Spend now to fill those pools.\n\n→ Fix tracking before the rush\nIf something breaks on the busiest weekend of the year, you're flying blind with your biggest budget.\n\n→ Agree the offer early\nLast-minute discount decisions mean last-minute creative, which means rushed ads.\n\n→ Plan beyond the weekend\nCyber Monday and the December gifting window often beat Black Friday itself for considered purchases.\n\nThe brands that look calm on the day did the work in October.\n\nWhere are you up to?",
       "alt": "Vizz Ads card: Black Friday is four weeks away. Lock these in now.",
-      "code": "29-LI"
+      "code": "29-LI",
+      "approved_at": "2026-10-21 17:11 UTC"
     },
     {
       "id": "2026-10-29-black-friday",
@@ -117,7 +123,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "images": [
         "posts/2026-10-29-black-friday/29oct-black-friday-1.jpg",
         "posts/2026-10-29-black-friday/29oct-black-friday-2.jpg",
@@ -133,7 +139,8 @@
       "x_images": [
         "posts/2026-10-29-black-friday/29oct-black-friday-1.jpg"
       ],
-      "code": "29-IGFB"
+      "code": "29-IGFB",
+      "approved_at": "2026-10-21 17:11 UTC"
     },
     {
       "id": "2026-10-30-tired-or-wrong-audience",
@@ -142,7 +149,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "images": [
         "posts/2026-10-30-tired-or-wrong-audience/30oct-tired-or-wrong-audience-1.jpg",
         "posts/2026-10-30-tired-or-wrong-audience/30oct-tired-or-wrong-audience-2.jpg",
@@ -157,7 +164,8 @@
       "x_images": [
         "posts/2026-10-30-tired-or-wrong-audience/30oct-tired-or-wrong-audience-1.jpg"
       ],
-      "code": "30-IGFB"
+      "code": "30-IGFB",
+      "approved_at": "2026-10-21 17:11 UTC"
     }
   ]
 }
