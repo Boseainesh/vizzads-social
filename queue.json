@@ -1,6 +1,19 @@
 {
-  "_help": "One entry per post. 'when' is UK time (Europe/London). 'images' are paths inside this repo, in slide order (JPEG only). 'platforms' can include instagram and facebook. Set 'status' to 'ready' to allow posting; the robot sets it to 'posted' after it goes out.",
+  "_help": "One entry per post. 'when' is UK time (Europe/London). 'images' are paths inside this repo, in slide order (JPEG only). 'platforms' can include instagram, facebook and linkedin (LinkedIn needs 'linkedin_text'; write @Vizz Ads to tag the page). Set 'status' to 'ready' to allow posting; the robot sets it to 'posted' after it goes out.",
   "posts": [
+    {
+      "id": "2026-10-22-linkedin-competitor-tracking",
+      "when": "2026-10-22 08:30",
+      "platforms": [
+        "linkedin"
+      ],
+      "status": "ready",
+      "images": [
+        "posts/2026-10-22-competitor-tracking/22oct-competitor-tracking.jpg"
+      ],
+      "linkedin_text": "A peek at something we've built in-house at @Vizz Ads.\n\nFor every client, we track what their competitors are running on Meta. Every live ad, grouped by idea, sorted by format, hook and offer.\n\nThis one (brand anonymised) took about five minutes to read and told us:\n\n→ Their competitor is running far more video than static\n→ The same three hooks show up again and again\n→ They've quietly been leaning on discount offers\n\nThat's a creative brief, written by the market.\n\nMost ad partners check competitors once, at the pitch, and never again. Day-to-day account work always wins over \"we'll look at that later\".\n\nSo we built it to run without anyone having to remember.\n\nWhat do you check about your competitors, and how often?",
+      "alt": "Vizz Ads card: A creative brief, written by the market."
+    },
     {
       "id": "2026-10-22-competitor-tracking",
       "when": "2026-10-22 09:00",
@@ -34,6 +47,16 @@
       ],
       "caption": "Five checks we run before touching any campaign. None of them needs outside help. Any founder can do them in an afternoon.\n\nSave this for your next account review. Which one would worry you most?\n\n#metaads #paidsocial #ukbusiness #ecommerceuk #vizzads",
       "facebook_caption": "Five checks we run before touching any campaign. None of them needs outside help. Any founder can do them in an afternoon.\n\nSave this for your next account review. Which one would worry you most?"
+    },
+    {
+      "id": "2026-10-27-linkedin-eight-months",
+      "when": "2026-10-27 08:30",
+      "platforms": [
+        "linkedin"
+      ],
+      "status": "ready",
+      "images": [],
+      "linkedin_text": "Eight months ago I went independent and started @Vizz Ads.\n\nA few honest lessons so far:\n\n1. Running ads is the easy part.\nAfter 13 years, the work itself felt familiar from day one. Finding the right clients is the real job.\n\n2. Saying no is a skill.\nSome briefs weren't the right fit. Turning them down early saved everyone time.\n\n3. Being small is an advantage.\nClients get the person who actually does the work. No handoffs, no juniors, no waiting.\n\n4. Building in public feels uncomfortable.\nPosting here still doesn't come naturally. But every conversation that's started from a post has been worth it.\n\n5. The network you built before matters more than you think.\nThank you to everyone who's reached out, referred someone, or just cheered from the sidelines.\n\nStill early. Still learning. Grateful for all of it."
     }
   ]
 }

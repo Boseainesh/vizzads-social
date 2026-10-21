@@ -113,7 +113,7 @@ def main():
                 print(f"   {platform}: already posted ({done[platform]})")
                 continue
             if DRY:
-                print(f"   {platform}: DRY RUN, would post {urls[0]} ...")
+                print(f"   {platform}: DRY RUN, would post {len(urls)} image(s)")
                 continue
             try:
                 if platform == "instagram":
