@@ -1,5 +1,5 @@
 {
-  "_help": "One entry per post. 'when' is UK time (Europe/London). 'images' are paths inside this repo, in slide order (JPEG only). 'platforms' can include instagram, facebook and linkedin (LinkedIn needs 'linkedin_text'; write @Vizz Ads to tag the page). Set 'status' to 'ready' to allow posting; the robot sets it to 'posted' after it goes out.",
+  "_help": "One entry per post. 'when' is UK time (Europe/London). 'images' are repo paths in slide order (JPEG). 'platforms': instagram, facebook, linkedin (LinkedIn needs 'linkedin_text'; '@Vizz Ads' tags the page). 'status': awaiting_approval -> approved (only Ainesh approves) -> posted (set by the robot). Nothing posts unless approved.",
   "posts": [
     {
       "id": "2026-10-22-linkedin-competitor-tracking",
@@ -7,7 +7,7 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "ready",
+      "status": "awaiting_approval",
       "images": [
         "posts/2026-10-22-competitor-tracking/22oct-competitor-tracking.jpg"
       ],
@@ -21,7 +21,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "ready",
+      "status": "awaiting_approval",
       "images": [
         "posts/2026-10-22-competitor-tracking/22oct-competitor-tracking.jpg"
       ],
@@ -35,7 +35,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "ready",
+      "status": "awaiting_approval",
       "images": [
         "posts/2026-10-23-5-checks/23oct-ig-5-checks-1.jpg",
         "posts/2026-10-23-5-checks/23oct-ig-5-checks-2.jpg",
@@ -54,7 +54,7 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "ready",
+      "status": "awaiting_approval",
       "images": [],
       "linkedin_text": "Eight months ago I went independent and started @Vizz Ads.\n\nA few honest lessons so far:\n\n1. Running ads is the easy part.\nAfter 13 years, the work itself felt familiar from day one. Finding the right clients is the real job.\n\n2. Saying no is a skill.\nSome briefs weren't the right fit. Turning them down early saved everyone time.\n\n3. Being small is an advantage.\nClients get the person who actually does the work. No handoffs, no juniors, no waiting.\n\n4. Building in public feels uncomfortable.\nPosting here still doesn't come naturally. But every conversation that's started from a post has been worth it.\n\n5. The network you built before matters more than you think.\nThank you to everyone who's reached out, referred someone, or just cheered from the sidelines.\n\nStill early. Still learning. Grateful for all of it."
     }

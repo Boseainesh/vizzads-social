@@ -1,6 +1,11 @@
 name: Publish social posts
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "queue.json"     # approving a post (or adding one) runs a check straight away
+      - "trigger/**"     # cloud backup timer pushes here at posting times
   schedule:
     - cron: "5,35 * * * *"   # every 30 minutes; posts go out within ~30 min of their time
   workflow_dispatch:

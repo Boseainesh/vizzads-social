@@ -98,7 +98,7 @@ def main():
             if p["id"] != ONLY:
                 continue
         else:
-            if p.get("status") != "ready":
+            if p.get("status") != "approved":  # nothing posts without Ainesh's approval
                 continue
             due = datetime.strptime(p["when"], "%Y-%m-%d %H:%M").replace(tzinfo=UK)
             if due > now:

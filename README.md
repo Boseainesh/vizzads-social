@@ -2,7 +2,7 @@
 
 Scheduled posting for the Vizz Ads Instagram account, Facebook page and Ainesh's LinkedIn profile.
 
-**How it works:** `queue.json` lists each post (UK time, images, caption). Every 30 minutes a GitHub Action posts anything that is due and marked `ready`, then marks it `posted`.
+**How it works:** `queue.json` lists each post (UK time, images, caption). A GitHub Action posts anything that is due and marked `approved` (only Ainesh approves posts), then marks it `posted`. It runs every 30 minutes, whenever queue.json changes, and when the cloud backup timer pushes to `trigger/`.
 
 **Settings this needs (Settings → Secrets and variables → Actions):**
 
