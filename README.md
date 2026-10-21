@@ -7,8 +7,8 @@ Scheduled posting for the Vizz Ads Instagram account and Facebook page.
 **Settings this needs (Settings → Secrets and variables → Actions):**
 
 - Secret `META_PAGE_TOKEN`: the Facebook Page access token (never commit it).
-- Variable `IG_USER_ID`: the Instagram professional account ID.
-- Variable `FB_PAGE_ID`: the Facebook Page ID.
+
+The Instagram account ID and Facebook Page ID are set in the workflow file (they are not secret).
 
 **To test:** Actions → Publish social posts → Run workflow, with "Dry run" ticked.
 
