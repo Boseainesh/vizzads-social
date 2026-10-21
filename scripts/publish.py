@@ -1,4 +1,5 @@
-"""Publish due posts from queue.json to Instagram and a Facebook Page via Meta's Graph API.
+"""Publish due posts from queue.json to Instagram and a Facebook Page via Meta's Graph API,
+and to a LinkedIn personal profile (see linkedin.py; queue entries need "linkedin_text").
 
 Runs on a schedule in GitHub Actions. Uses only the Python standard library.
 
@@ -22,7 +23,9 @@ import urllib.request
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-QUEUE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "queue.json")
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+QUEUE = os.path.join(ROOT, "queue.json")
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 UK = ZoneInfo("Europe/London")
 VER = os.environ.get("GRAPH_VERSION", "v23.0")
 API = f"https://graph.facebook.com/{VER}"
@@ -117,6 +120,11 @@ def main():
                     rid = post_instagram(urls, p["caption"])
                 elif platform == "facebook":
                     rid = post_facebook(urls, p.get("facebook_caption", p["caption"]))
+                elif platform == "linkedin":
+                    import linkedin
+                    imgs = p.get("linkedin_images", p["images"])
+                    paths = [os.path.join(ROOT, i) for i in imgs]
+                    rid = linkedin.post(p["linkedin_text"], paths, p.get("alt", ""))
                 else:
                     print(f"   {platform}: unknown platform, skipped")
                     continue
@@ -140,7 +148,15 @@ def main():
 
 
 def check():
-    """Read-only test: confirms the token works and says whether it expires. Posts nothing."""
+    """Read-only test: confirms the tokens work and says whether they expire. Posts nothing."""
+    if os.environ.get("LINKEDIN_TOKEN"):
+        import linkedin
+        try:
+            linkedin.check()
+        except Exception as e:
+            print(f"LinkedIn check FAILED: {e}")
+    else:
+        print("LinkedIn: no LINKEDIN_TOKEN secret set yet")
     me = call("GET", "me", fields="id,name")
     print(f"Token belongs to: {me.get('name')} ({me.get('id')})")
     info = call("GET", "debug_token", input_token=TOKEN).get("data", {})

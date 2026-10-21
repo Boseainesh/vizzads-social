@@ -36,6 +36,8 @@ jobs:
       - name: Publish due posts
         env:
           META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          LINKEDIN_TOKEN: ${{ secrets.LINKEDIN_TOKEN }}   # personal profile; renew every 60 days
+          LINKEDIN_ORG_URN: urn:li:organization:112638972   # Vizz Ads page, for @Vizz Ads tags
           IG_USER_ID: "17841476371044781"   # Instagram @vizzads
           FB_PAGE_ID: "662761746930877"     # Facebook Page: Vizz Ads
           GRAPH_VERSION: v26.0
