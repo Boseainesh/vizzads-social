@@ -1,0 +1,49 @@
+name: Publish social posts
+
+on:
+  schedule:
+    - cron: "5,35 * * * *"   # every 30 minutes; posts go out within ~30 min of their time
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (print only, post nothing)"
+        type: boolean
+        default: true
+      only_id:
+        description: "Post just this queue id now (leave blank for normal run)"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Publish due posts
+        env:
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          IG_USER_ID: ${{ vars.IG_USER_ID }}
+          FB_PAGE_ID: ${{ vars.FB_PAGE_ID }}
+          RAW_BASE: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && '1' || '0' }}
+          ONLY_ID: ${{ inputs.only_id }}
+        run: python scripts/publish.py
+      - name: Save what was posted
+        if: always()
+        run: |
+          if ! git diff --quiet queue.json; then
+            git config user.name "vizzads-social-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git commit -am "Mark posts as published"
+            git push
+          fi

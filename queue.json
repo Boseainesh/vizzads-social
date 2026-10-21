@@ -1,0 +1,22 @@
+{
+  "_help": "One entry per post. 'when' is UK time (Europe/London). 'images' are paths inside this repo, in slide order (JPEG only). 'platforms' can include instagram and facebook. Set 'status' to 'ready' to allow posting; the robot sets it to 'posted' after it goes out.",
+  "posts": [
+    {
+      "id": "2026-10-23-5-checks",
+      "when": "2026-10-23 09:00",
+      "platforms": ["instagram", "facebook"],
+      "status": "ready",
+      "images": [
+        "posts/2026-10-23-5-checks/23oct-ig-5-checks-1.jpg",
+        "posts/2026-10-23-5-checks/23oct-ig-5-checks-2.jpg",
+        "posts/2026-10-23-5-checks/23oct-ig-5-checks-3.jpg",
+        "posts/2026-10-23-5-checks/23oct-ig-5-checks-4.jpg",
+        "posts/2026-10-23-5-checks/23oct-ig-5-checks-5.jpg",
+        "posts/2026-10-23-5-checks/23oct-ig-5-checks-6.jpg",
+        "posts/2026-10-23-5-checks/23oct-ig-5-checks-7.jpg"
+      ],
+      "caption": "Five checks we run before touching any campaign. None of them needs outside help. Any founder can do them in an afternoon.\n\nSave this for your next account review. Which one would worry you most?\n\n#metaads #paidsocial #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "Five checks we run before touching any campaign. None of them needs outside help. Any founder can do them in an afternoon.\n\nSave this for your next account review. Which one would worry you most?"
+    }
+  ]
+}
