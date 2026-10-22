@@ -55,6 +55,8 @@ def card(p):
     if "linkedin_text" in p:
         texts += block("LinkedIn · your profile", p["linkedin_text"],
                        note='"@Vizz Ads" becomes a tag of the company page.')
+        if p.get("page_reshare"):
+            texts += block("Vizz Ads page reshare · you, at midday", p["page_reshare"], copy=True)
     if "caption" in p:
         texts += block("Instagram caption", p["caption"])
         if p.get("facebook_caption"):
