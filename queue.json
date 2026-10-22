@@ -7,14 +7,18 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "approved",
+      "status": "posted",
       "images": [
         "posts/2026-10-22-competitor-tracking/22oct-competitor-tracking.jpg"
       ],
       "linkedin_text": "A peek at something we've built in-house at @Vizz Ads.\n\nFor every client, we track what their competitors are running on Meta. Every live ad, grouped by idea, sorted by format, hook and offer.\n\nThis one (brand anonymised) took about five minutes to read and told us:\n\n→ Their competitor is running far more video than static\n→ The same three hooks show up again and again\n→ They've quietly been leaning on discount offers\n\nThat's a creative brief, written by the market.\n\nMost ad partners check competitors once, at the pitch, and never again. Day-to-day account work always wins over \"we'll look at that later\".\n\nSo we built it to run without anyone having to remember.\n\nWhat do you check about your competitors, and how often?",
       "alt": "Vizz Ads card: A creative brief, written by the market.",
       "code": "22-LI",
-      "approved_at": "2026-10-21 17:11 UTC"
+      "approved_at": "2026-10-21 17:11 UTC",
+      "posted": {
+        "linkedin": "urn:li:share:7518937165028941825"
+      },
+      "posted_at": "2026-10-22 08:31"
     },
     {
       "id": "2026-10-22-competitor-tracking",
