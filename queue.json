@@ -27,7 +27,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "approved",
+      "status": "posted",
       "images": [
         "posts/2026-10-22-competitor-tracking/22oct-competitor-tracking.jpg"
       ],
@@ -38,7 +38,12 @@
         "posts/2026-10-22-competitor-tracking/22oct-competitor-tracking.jpg"
       ],
       "code": "22-IGFB",
-      "approved_at": "2026-10-21 17:11 UTC"
+      "approved_at": "2026-10-21 17:11 UTC",
+      "posted": {
+        "instagram": "18159253675503084",
+        "facebook": "122185396688977882"
+      },
+      "posted_at": "2026-10-22 09:03"
     },
     {
       "id": "2026-10-23-5-checks",
