@@ -53,7 +53,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "approved",
+      "status": "posted",
       "images": [
         "posts/2026-10-23-5-checks/23oct-ig-5-checks-1.jpg",
         "posts/2026-10-23-5-checks/23oct-ig-5-checks-2.jpg",
@@ -75,7 +75,12 @@
       ],
       "x_note": "One slide per post: slide 1 on post 1, slides 2-6 on posts 2-6. Reply to the last post with vizzads.com.",
       "code": "23-IGFB",
-      "approved_at": "2026-10-21 17:11 UTC"
+      "approved_at": "2026-10-21 17:11 UTC",
+      "posted": {
+        "instagram": "18116369279024058",
+        "facebook": "662761746930877_122185548512977882"
+      },
+      "posted_at": "2026-10-23 09:03"
     },
     {
       "id": "2026-10-27-linkedin-eight-months",
