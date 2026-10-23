@@ -190,14 +190,15 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "images": [
         "posts/2026-11-03-regulated/03nov-regulated-1.jpg"
       ],
       "code": "03-LI",
       "alt": "Vizz Ads card: Regulated brand? You can still run good ads.",
-      "linkedin_text": "Regulated doesn't have to mean boring.\n\nAt @Vizz Ads we run Meta and Google ads for Republic Europe, an FCA-regulated investment platform. Working in a regulated category has sharpened how we brief, write and build every ad.\n\nThree things it's taught us:\n\n→ Compliance is a brief, not a blocker\nKnowing the rules before the first idea, not after the first draft, leads to better ideas and fewer rewrites.\n\n→ Specific beats bold\nYou can't promise returns. So the ads win on real detail and plain words, which tends to persuade better anyway.\n\n→ Build the warning in, never bolt it on\nThe risk warning comes from an approved template on every asset. One less thing to get wrong at speed.\n\nIf you're in finance, health or any category with rules, good ads are still on the table.\n\nWhat's the hardest rule you work around?",
-      "page_reshare": "Regulated doesn't mean boring. Three things working in an FCA-regulated category has taught us about building better ads."
+      "linkedin_text": "Regulated doesn't have to mean boring.\n\nAt @Vizz Ads we run Meta and Google ads for an FCA-regulated investment platform. Working in a regulated category has sharpened how we brief, write and build every ad.\n\nThree things it's taught us:\n\n→ Compliance is a brief, not a blocker\nKnowing the rules before the first idea, not after the first draft, leads to better ideas and fewer rewrites.\n\n→ Specific beats bold\nYou can't promise returns. So the ads win on real detail and plain words, which tends to persuade better anyway.\n\n→ Build the warning in, never bolt it on\nThe risk warning comes from an approved template on every asset. One less thing to get wrong at speed.\n\nIf you're in finance, health or any category with rules, good ads are still on the table.\n\nWhat's the hardest rule you work around?",
+      "page_reshare": "Regulated doesn't mean boring. Three things working with an FCA-regulated client has taught us about building better ads.",
+      "approved_at": "2026-10-23 10:33 UTC"
     },
     {
       "id": "2026-11-03-regulated",
@@ -206,7 +207,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "images": [
         "posts/2026-11-03-regulated/03nov-regulated-1.jpg",
         "posts/2026-11-03-regulated/03nov-regulated-2.jpg",
@@ -216,12 +217,13 @@
       ],
       "code": "03-IGFB",
       "alt": "Vizz Ads carousel: Regulated brand? You can still run good ads. Three lessons.",
-      "caption": "Regulated doesn't have to mean boring.\n\nWe run Meta and Google ads for Republic Europe, an FCA-regulated investment platform. Three things that work in a regulated category:\n\n1. Treat compliance as the brief, not the blocker\n2. Win on specific detail, not bold promises\n3. Build the risk warning into the template, never bolt it on\n\nIn a regulated category? Book a free Health Check at vizzads.com\n\n#metaads #googleads #fintech #ukbusiness #vizzads",
-      "facebook_caption": "Regulated doesn't have to mean boring.\n\nWe run Meta and Google ads for Republic Europe, an FCA-regulated investment platform. Three things that work in a regulated category:\n\n1. Treat compliance as the brief, not the blocker\n2. Win on specific detail, not bold promises\n3. Build the risk warning into the template, never bolt it on\n\nIn a regulated category? Book a free Health Check at vizzads.com",
+      "caption": "Regulated doesn't have to mean boring.\n\nWe run Meta and Google ads for an FCA-regulated investment platform. Three things that work in a regulated category:\n\n1. Treat compliance as the brief, not the blocker\n2. Win on specific detail, not bold promises\n3. Build the risk warning into the template, never bolt it on\n\nIn a regulated category? Book a free Health Check at vizzads.com\n\n#metaads #googleads #fintech #ukbusiness #vizzads",
+      "facebook_caption": "Regulated doesn't have to mean boring.\n\nWe run Meta and Google ads for an FCA-regulated investment platform. Three things that work in a regulated category:\n\n1. Treat compliance as the brief, not the blocker\n2. Win on specific detail, not bold promises\n3. Build the risk warning into the template, never bolt it on\n\nIn a regulated category? Book a free Health Check at vizzads.com",
       "x_text": "Regulated brand? You can still run good ads.\n\nWhat working with an FCA-regulated client has taught us:\n→ Compliance is a brief, not a blocker\n→ Specific beats bold\n→ Build the risk warning into the template\n\nWhat rule do you work around?",
       "x_images": [
         "posts/2026-11-03-regulated/03nov-regulated-1.jpg"
-      ]
+      ],
+      "approved_at": "2026-10-23 10:33 UTC"
     },
     {
       "id": "2026-11-05-linkedin-consultation-first",
@@ -234,9 +236,9 @@
         "posts/2026-11-05-consultation-first/05nov-consultation-first-1.jpg"
       ],
       "code": "05-LI",
-      "alt": "Vizz Ads card: Some products sell through a conversation.",
-      "linkedin_text": "Not every product sells through a checkout.\n\nAt @Vizz Ads we run Meta ads for Anyon, a premium home decor and interior design business. For bigger, more personal purchases, the sale often starts with a conversation, not a basket.\n\nSo we build the ads around that:\n\n→ Offer a consultation\nInvite people to talk to a designer, not just to buy. The first step feels smaller and safer.\n\n→ Keep the form short\nA simple enquiry, so the design team can follow up quickly and personally.\n\n→ Keep the shop in the picture\nSome people are ready to buy now. They still have a route.\n\nIf your product needs a chat before a sale, your ads should start that chat.\n\nWhat does the first step look like for your customers?",
-      "page_reshare": "For bigger purchases, the sale starts with a conversation. How we build ads around that first chat."
+      "alt": "Vizz Ads card: Some services sell through a conversation.",
+      "linkedin_text": "Nobody hires an interior designer from an ad alone.\n\nAt @Vizz Ads we run Meta lead ads for Anyon, a premium interior design studio. For a service like this, the sale starts with a conversation, so the ads are built to start one:\n\n→ Offer a consultation\nInvite homeowners to talk to a designer about their project. The first step feels smaller and safer than a hard sell.\n\n→ Keep the form short\nA few simple questions, so the design team can follow up quickly and personally.\n\n→ Speak to who's hiring\nHomeowners, designers and decorators hire for different reasons. Speak to each one.\n\nIf your service needs a chat before a sale, your ads should start that chat.\n\nWhat does the first conversation look like for your customers?",
+      "page_reshare": "Nobody hires an interior designer from an ad alone. How we build lead ads that start the first conversation."
     },
     {
       "id": "2026-11-05-consultation-first",
@@ -254,10 +256,10 @@
         "posts/2026-11-05-consultation-first/05nov-consultation-first-5.jpg"
       ],
       "code": "05-IGFB",
-      "alt": "Vizz Ads carousel: Some products sell through a conversation. Three steps.",
-      "caption": "Some products sell through a conversation, not a checkout.\n\nWe run Meta ads for Anyon, a premium home decor and interior design business. For bigger purchases, the first step is often a chat with a designer.\n\nSo the ads invite a consultation, the form stays short, and the shop is still there for anyone ready to buy.\n\nSell something considered? Book a free Health Check at vizzads.com\n\n#metaads #interiordesign #leadgeneration #ukbusiness #vizzads",
-      "facebook_caption": "Some products sell through a conversation, not a checkout.\n\nWe run Meta ads for Anyon, a premium home decor and interior design business. For bigger purchases, the first step is often a chat with a designer.\n\nSo the ads invite a consultation, the form stays short, and the shop is still there for anyone ready to buy.\n\nSell something considered? Book a free Health Check at vizzads.com",
-      "x_text": "Some products sell through a conversation, not a checkout.\n\nFor considered purchases:\n→ Ads that offer a consultation\n→ A short enquiry form\n→ The shop still there for anyone ready now\n\nYour ads should start the chat.",
+      "alt": "Vizz Ads carousel: Some services sell through a conversation. Three steps.",
+      "caption": "Some services sell through a conversation, not a checkout.\n\nWe run Meta lead ads for Anyon, a premium interior design studio. Nobody hires a designer from an ad alone, so the ads offer a consultation, keep the enquiry form short, and speak to homeowners, designers and decorators in their own terms.\n\nSell a service? Book a free Health Check at vizzads.com\n\n#metaads #leadgeneration #interiordesign #ukbusiness #vizzads",
+      "facebook_caption": "Some services sell through a conversation, not a checkout.\n\nWe run Meta lead ads for Anyon, a premium interior design studio. Nobody hires a designer from an ad alone, so the ads offer a consultation, keep the enquiry form short, and speak to homeowners, designers and decorators in their own terms.\n\nSell a service? Book a free Health Check at vizzads.com",
+      "x_text": "Nobody hires an interior designer from an ad alone.\n\nLead ads for a service business:\n→ Offer a consultation, not a hard sell\n→ Keep the enquiry form short\n→ Speak to homeowners, designers and decorators separately\n\nYour ads should start the chat.",
       "x_images": [
         "posts/2026-11-05-consultation-first/05nov-consultation-first-1.jpg"
       ]
@@ -279,9 +281,9 @@
       ],
       "code": "06-IGFB",
       "alt": "Vizz Ads carousel: Cheap reach now, cheaper sales later.",
-      "caption": "Content ads look like vanity on their own. As part of a system, they pay their way.\n\n1. Reach people cheaply with video and content\n2. Everyone who engages joins a warm audience\n3. Conversion ads to warm audiences usually cost less per sale\n\nRun them together, not as separate campaigns. How do you use your top-of-funnel spend?\n\n#metaads #paidsocial #fullfunnel #ukbusiness #vizzads",
-      "facebook_caption": "Content ads look like vanity on their own. As part of a system, they pay their way.\n\n1. Reach people cheaply with video and content\n2. Everyone who engages joins a warm audience\n3. Conversion ads to warm audiences usually cost less per sale\n\nRun them together, not as separate campaigns. How do you use your top-of-funnel spend?",
-      "x_text": "Content ads look like vanity on their own.\n\nAs a system they pay their way:\n→ Cheap reach with video and content\n→ Engagers join a warm audience\n→ Conversion ads to warm audiences usually cost less per sale\n\nRun them together.",
+      "caption": "Awareness ads look like a waste on their own. Paired with sales ads, they pay their way.\n\n1. Awareness and video ads reach people for less\n2. Everyone who watches or clicks joins a warm audience\n3. Sales ads to that warm audience usually cost less per sale\n\nRun them together, not as separate campaigns. How do you use your awareness budget?\n\n#metaads #paidsocial #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "Awareness ads look like a waste on their own. Paired with sales ads, they pay their way.\n\n1. Awareness and video ads reach people for less\n2. Everyone who watches or clicks joins a warm audience\n3. Sales ads to that warm audience usually cost less per sale\n\nRun them together, not as separate campaigns. How do you use your awareness budget?",
+      "x_text": "Awareness ads look like a waste on their own.\n\nPaired with sales ads, they pay their way:\n→ Awareness and video ads reach people cheaply\n→ Watchers and clickers join a warm audience\n→ Sales ads to that audience usually cost less per sale\n\nRun them together.",
       "x_images": [
         "posts/2026-11-06-content-reach/06nov-content-reach-1.jpg"
       ]
