@@ -88,12 +88,16 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "approved",
+      "status": "posted",
       "images": [],
       "linkedin_text": "Eight months ago I went independent and started @Vizz Ads.\n\nA few honest lessons so far:\n\n1. Running ads is the easy part.\nAfter 13 years, the work itself felt familiar from day one. Finding the right clients is the real job.\n\n2. Saying no is a skill.\nSome briefs weren't the right fit. Turning them down early saved everyone time.\n\n3. Being small is an advantage.\nClients get the person who actually does the work. No handoffs, no juniors, no waiting.\n\n4. Building in public feels uncomfortable.\nPosting here still doesn't come naturally. But every conversation that's started from a post has been worth it.\n\n5. The network you built before matters more than you think.\nThank you to everyone who's reached out, referred someone, or just cheered from the sidelines.\n\nStill early. Still learning. Grateful for all of it.",
       "code": "27-LI",
       "approved_at": "2026-10-21 17:11 UTC",
-      "page_reshare": null
+      "page_reshare": null,
+      "posted": {
+        "linkedin": "urn:li:share:7520764347304824833"
+      },
+      "posted_at": "2026-10-27 08:32"
     },
     {
       "id": "2026-10-27-person-on-the-call",
