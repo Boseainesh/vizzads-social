@@ -106,7 +106,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "approved",
+      "status": "posted",
       "images": [
         "posts/2026-10-27-person-on-the-call/27oct-person-on-the-call-1-navy.jpg",
         "posts/2026-10-27-person-on-the-call/27oct-person-on-the-call-2-cream.jpg",
@@ -119,7 +119,12 @@
         "posts/2026-10-27-person-on-the-call/27oct-person-on-the-call-1-navy.jpg"
       ],
       "code": "27-IGFB",
-      "approved_at": "2026-10-21 17:11 UTC"
+      "approved_at": "2026-10-21 17:11 UTC",
+      "posted": {
+        "instagram": "17998076232042769",
+        "facebook": "662761746930877_122186178860977882"
+      },
+      "posted_at": "2026-10-27 09:04"
     },
     {
       "id": "2026-10-29-linkedin-black-friday",
