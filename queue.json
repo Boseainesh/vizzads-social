@@ -149,7 +149,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "images": [
         "posts/2026-10-29-black-friday/29oct-black-friday-1.jpg",
         "posts/2026-10-29-black-friday/29oct-black-friday-2.jpg"
@@ -160,7 +160,8 @@
       "x_images": [
         "posts/2026-10-29-black-friday/29oct-black-friday-1.jpg"
       ],
-      "code": "29-IGFB"
+      "code": "29-IGFB",
+      "approved_at": "2026-10-28 15:38 UTC"
     },
     {
       "id": "2026-10-30-tired-or-wrong-audience",
@@ -169,7 +170,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "images": [
         "posts/2026-10-30-tired-or-wrong-audience/30oct-tired-or-wrong-audience-1.jpg",
         "posts/2026-10-30-tired-or-wrong-audience/30oct-tired-or-wrong-audience-2.jpg"
@@ -180,7 +181,8 @@
       "x_images": [
         "posts/2026-10-30-tired-or-wrong-audience/30oct-tired-or-wrong-audience-1.jpg"
       ],
-      "code": "30-IGFB"
+      "code": "30-IGFB",
+      "approved_at": "2026-10-28 15:38 UTC"
     },
     {
       "id": "2026-11-03-linkedin-regulated",
@@ -205,7 +207,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "images": [
         "posts/2026-11-03-regulated/03nov-regulated-1.jpg",
         "posts/2026-11-03-regulated/03nov-regulated-2.jpg"
@@ -217,7 +219,8 @@
       "x_text": "Regulated brand? You can still run good ads.\n\nWhat working with an FCA-regulated client has taught us:\n→ Compliance is a brief, not a blocker\n→ Specific beats bold\n→ Build the risk warning into the template\n\nWhat rule do you work around?",
       "x_images": [
         "posts/2026-11-03-regulated/03nov-regulated-1.jpg"
-      ]
+      ],
+      "approved_at": "2026-10-28 15:38 UTC"
     },
     {
       "id": "2026-11-05-linkedin-consultation-first",
@@ -242,7 +245,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "images": [
         "posts/2026-11-05-consultation-first/05nov-consultation-first-1.jpg",
         "posts/2026-11-05-consultation-first/05nov-consultation-first-2.jpg"
@@ -254,7 +257,8 @@
       "x_text": "Nobody hires an interior designer from an ad alone.\n\nLead ads for a service business:\n→ Offer a consultation, not a hard sell\n→ Keep the enquiry form short\n→ Speak to homeowners, designers and decorators separately\n\nYour ads should start the chat.",
       "x_images": [
         "posts/2026-11-05-consultation-first/05nov-consultation-first-1.jpg"
-      ]
+      ],
+      "approved_at": "2026-10-28 15:38 UTC"
     },
     {
       "id": "2026-11-06-content-reach",
@@ -263,7 +267,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "images": [
         "posts/2026-11-06-content-reach/06nov-content-reach-1.jpg",
         "posts/2026-11-06-content-reach/06nov-content-reach-2.jpg"
@@ -275,7 +279,8 @@
       "x_text": "Awareness ads look like a waste on their own.\n\nPaired with sales ads, they pay their way:\n→ Awareness and video ads reach people cheaply\n→ Watchers and clickers join a warm audience\n→ Sales ads to that audience usually cost less per sale\n\nRun them together.",
       "x_images": [
         "posts/2026-11-06-content-reach/06nov-content-reach-1.jpg"
-      ]
+      ],
+      "approved_at": "2026-10-28 15:38 UTC"
     }
   ]
 }
