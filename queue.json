@@ -132,7 +132,7 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "approved",
+      "status": "posted",
       "images": [
         "posts/2026-10-29-black-friday/29oct-black-friday-1.jpg"
       ],
@@ -140,7 +140,11 @@
       "alt": "Vizz Ads card: Black Friday is four weeks away. Lock these in now.",
       "code": "29-LI",
       "approved_at": "2026-10-21 17:11 UTC",
-      "page_reshare": "Four weeks to Black Friday. Here's what we're locking in with clients this week, and what you can still get done in time."
+      "page_reshare": "Four weeks to Black Friday. Here's what we're locking in with clients this week, and what you can still get done in time.",
+      "posted": {
+        "linkedin": "urn:li:share:7521489091314520064"
+      },
+      "posted_at": "2026-10-29 08:32"
     },
     {
       "id": "2026-10-29-black-friday",
