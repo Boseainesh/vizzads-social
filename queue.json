@@ -153,7 +153,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "approved",
+      "status": "posted",
       "images": [
         "posts/2026-10-29-black-friday/29oct-black-friday-1.jpg",
         "posts/2026-10-29-black-friday/29oct-black-friday-2.jpg"
@@ -165,7 +165,12 @@
         "posts/2026-10-29-black-friday/29oct-black-friday-1.jpg"
       ],
       "code": "29-IGFB",
-      "approved_at": "2026-10-28 15:38 UTC"
+      "approved_at": "2026-10-28 15:38 UTC",
+      "posted": {
+        "instagram": "18098403812539845",
+        "facebook": "662761746930877_122186470532977882"
+      },
+      "posted_at": "2026-10-29 09:03"
     },
     {
       "id": "2026-10-30-tired-or-wrong-audience",
