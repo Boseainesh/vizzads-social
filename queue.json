@@ -290,6 +290,99 @@
         "posts/2026-11-06-content-reach/06nov-content-reach-1.jpg"
       ],
       "approved_at": "2026-10-28 15:38 UTC"
+    },
+    {
+      "id": "2026-11-10-linkedin-creative-snapshot",
+      "when": "2026-11-10 08:30",
+      "platforms": [
+        "linkedin"
+      ],
+      "status": "awaiting_approval",
+      "code": "10-LI",
+      "images": [
+        "posts/2026-11-10-creative-snapshot/10nov-creative-snapshot-1.jpg"
+      ],
+      "alt": "Vizz Ads card: Your live ads, read in two minutes.",
+      "linkedin_text": "Most brands have never read all of their own live ads in one sitting.\n\nSo at @Vizz Ads we built a way to do it. The Creative Snapshot reads every live Meta ad a brand runs and turns it into one page a founder can act on in two minutes.\n\nIt answers three questions:\n\n→ What are the ads really saying?\nNot what the brief said. What a customer actually sees.\n\n→ What proof is missing?\nA gap we often spot: the homepage has the reviews, the awards, the years in business. The ads have none of it.\n\n→ What would we test first?\nThree concrete tests, not a 40-page deck.\n\nWhen did you last read all your live ads?",
+      "page_reshare": "We built a way to read every live Meta ad a brand runs in two minutes. Here's what it looks for."
+    },
+    {
+      "id": "2026-11-10-creative-snapshot",
+      "when": "2026-11-10 09:00",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "10-IGFB",
+      "images": [
+        "posts/2026-11-10-creative-snapshot/10nov-creative-snapshot-1.jpg",
+        "posts/2026-11-10-creative-snapshot/10nov-creative-snapshot-2.jpg"
+      ],
+      "alt": "Vizz Ads carousel: Your live ads, read in two minutes. Three questions, one page.",
+      "caption": "What do your live ads actually say? We built a way to read every live Meta ad a brand runs and turn it into one page a founder can act on in two minutes.\n\nIt answers three questions: what the ads are saying, what proof is missing, and what we'd test first.\n\nA gap we often spot: proof that sits on the homepage, like reviews or years in business, never makes it into the ads.\n\nWhen did you last read all your live ads?\n\n#metaads #creativestrategy #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "What do your live ads actually say? We built a way to read every live Meta ad a brand runs and turn it into one page a founder can act on in two minutes.\n\nIt answers three questions: what the ads are saying, what proof is missing, and what we'd test first.\n\nA gap we often spot: proof that sits on the homepage, like reviews or years in business, never makes it into the ads.\n\nWhen did you last read all your live ads?",
+      "x_text": "Most brands have never read all their own live ads in one go.\n\nWe built a way to do it in two minutes:\n→ What are the ads really saying?\n→ What proof is missing?\n→ What would we test first?\n\nWhen did you last read yours?",
+      "x_images": [
+        "posts/2026-11-10-creative-snapshot/10nov-creative-snapshot-1.jpg"
+      ]
+    },
+    {
+      "id": "2026-11-12-linkedin-competitor-snapshot",
+      "when": "2026-11-12 08:30",
+      "platforms": [
+        "linkedin"
+      ],
+      "status": "awaiting_approval",
+      "code": "12-LI",
+      "images": [
+        "posts/2026-11-12-competitor-snapshot/12nov-competitor-snapshot-1.jpg"
+      ],
+      "alt": "Vizz Ads card: What your rivals launch that you don't.",
+      "linkedin_text": "Your competitors' ads are public. Almost nobody reads them properly.\n\nAt @Vizz Ads we built the Competitor Snapshot: every live ad from a brand's closest rivals, read from Meta's public Ad Library and mapped by message. No logins, no guesswork.\n\nIt shows three things:\n\n→ The messages every rival uses\nIf everyone says it, it's table stakes, not a reason to choose you.\n\n→ The messages nobody is claiming\nThat's where the best test ideas usually are.\n\n→ Who leads on proof and video\nAnd how long they've kept those ads running.\n\nA creative brief your competitors wrote for you.\n\nHow often do you check what your rivals are running?",
+      "page_reshare": "Your competitors' ads are public. Here's how we read them to find the messages nobody is claiming."
+    },
+    {
+      "id": "2026-11-12-competitor-snapshot",
+      "when": "2026-11-12 09:00",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "12-IGFB",
+      "images": [
+        "posts/2026-11-12-competitor-snapshot/12nov-competitor-snapshot-1.jpg",
+        "posts/2026-11-12-competitor-snapshot/12nov-competitor-snapshot-2.jpg"
+      ],
+      "alt": "Vizz Ads carousel: What your rivals launch that you don't. Crowded, or wide open?",
+      "caption": "Your rivals' ads are public. Most brands never read them properly.\n\nWe built the Competitor Snapshot: every live ad from your closest rivals, read from Meta's public Ad Library, mapped by message.\n\nIt shows which messages every rival uses, which ones nobody is claiming, and who leads on proof and video.\n\nWant to see yours? Book a free Health Check at vizzads.com\n\n#metaads #competitoranalysis #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "Your rivals' ads are public. Most brands never read them properly.\n\nWe built the Competitor Snapshot: every live ad from your closest rivals, read from Meta's public Ad Library, mapped by message.\n\nIt shows which messages every rival uses, which ones nobody is claiming, and who leads on proof and video.\n\nWant to see yours? Book a free Health Check at vizzads.com",
+      "x_text": "Your rivals' ads are public. Most brands never read them properly.\n\nWe map every live competitor ad by message:\n→ What every rival says\n→ What nobody is claiming\n→ Who leads on proof and video\n\nA brief your competitors wrote for you.",
+      "x_images": [
+        "posts/2026-11-12-competitor-snapshot/12nov-competitor-snapshot-1.jpg"
+      ]
+    },
+    {
+      "id": "2026-11-13-how-we-work",
+      "when": "2026-11-13 09:00",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "13-IGFB",
+      "images": [
+        "posts/2026-11-13-how-we-work/13nov-how-we-work-1.jpg",
+        "posts/2026-11-13-how-we-work/13nov-how-we-work-2.jpg"
+      ],
+      "alt": "Vizz Ads carousel: Four steps, every week. Read, Make, Judge, Record.",
+      "caption": "How we work, on every account, every week:\n\n1. Read what has worked before\n2. Make new ads from what's proven\n3. Judge every ad by fixed pass marks\n4. Record why, so the next round starts smarter\n\nNo guesswork. Just the next right step.\n\n#metaads #paidsocial #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "How we work, on every account, every week:\n\n1. Read what has worked before\n2. Make new ads from what's proven\n3. Judge every ad by fixed pass marks\n4. Record why, so the next round starts smarter\n\nNo guesswork. Just the next right step.",
+      "x_text": "How we work, on every account, every week:\n\n1. Read what has worked before\n2. Make new ads from what's proven\n3. Judge every ad by fixed pass marks\n4. Record why, so the next round starts smarter\n\nNo guesswork. Just the next right step.",
+      "x_images": [
+        "posts/2026-11-13-how-we-work/13nov-how-we-work-1.jpg"
+      ]
     }
   ]
 }
