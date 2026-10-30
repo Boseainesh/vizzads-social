@@ -179,7 +179,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "approved",
+      "status": "posted",
       "images": [
         "posts/2026-10-30-tired-or-wrong-audience/30oct-tired-or-wrong-audience-1.jpg",
         "posts/2026-10-30-tired-or-wrong-audience/30oct-tired-or-wrong-audience-2.jpg"
@@ -192,7 +192,12 @@
         "posts/2026-10-30-tired-or-wrong-audience/30oct-tired-or-wrong-audience-2.jpg"
       ],
       "code": "30-IGFB",
-      "approved_at": "2026-10-28 15:38 UTC"
+      "approved_at": "2026-10-28 15:38 UTC",
+      "posted": {
+        "instagram": "17952514941322881",
+        "facebook": "662761746930877_122186613422977882"
+      },
+      "posted_at": "2026-10-30 09:03"
     },
     {
       "id": "2026-11-03-linkedin-regulated",
