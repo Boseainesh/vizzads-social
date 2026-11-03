@@ -205,7 +205,7 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "approved",
+      "status": "posted",
       "images": [
         "posts/2026-11-03-regulated/03nov-regulated-1.jpg"
       ],
@@ -213,7 +213,11 @@
       "alt": "Vizz Ads card: Regulated brand? You can still run good ads.",
       "linkedin_text": "Regulated doesn't have to mean boring.\n\nAt @Vizz Ads we run Meta and Google ads for an FCA-regulated investment platform. Working in a regulated category has sharpened how we brief, write and build every ad.\n\nThree things it's taught us:\n\n→ Compliance is a brief, not a blocker\nKnowing the rules before the first idea, not after the first draft, leads to better ideas and fewer rewrites.\n\n→ Specific beats bold\nYou can't promise returns. So the ads win on real detail and plain words, which tends to persuade better anyway.\n\n→ Build the warning in, never bolt it on\nThe risk warning comes from an approved template on every asset. One less thing to get wrong at speed.\n\nIf you're in finance, health or any category with rules, good ads are still on the table.\n\nWhat's the hardest rule you work around?",
       "page_reshare": "Regulated doesn't mean boring. Three things working with an FCA-regulated client has taught us about building better ads.",
-      "approved_at": "2026-10-23 10:33 UTC"
+      "approved_at": "2026-10-23 10:33 UTC",
+      "posted": {
+        "linkedin": "urn:li:share:7523301099639050240"
+      },
+      "posted_at": "2026-11-03 08:32"
     },
     {
       "id": "2026-11-03-regulated",
