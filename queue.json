@@ -274,7 +274,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "approved",
+      "status": "posted",
       "images": [
         "posts/2026-11-05-consultation-first/05nov-consultation-first-1.jpg",
         "posts/2026-11-05-consultation-first/05nov-consultation-first-2.jpg"
@@ -288,7 +288,12 @@
         "posts/2026-11-05-consultation-first/05nov-consultation-first-1.jpg",
         "posts/2026-11-05-consultation-first/05nov-consultation-first-2.jpg"
       ],
-      "approved_at": "2026-10-28 15:38 UTC"
+      "approved_at": "2026-10-28 15:38 UTC",
+      "posted": {
+        "instagram": "18132002302743921",
+        "facebook": "662761746930877_122187565046977882"
+      },
+      "posted_at": "2026-11-05 09:03"
     },
     {
       "id": "2026-11-06-content-reach",
