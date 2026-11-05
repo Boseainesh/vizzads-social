@@ -253,7 +253,7 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "approved",
+      "status": "posted",
       "images": [
         "posts/2026-11-05-consultation-first/05nov-consultation-first-1.jpg"
       ],
@@ -261,7 +261,11 @@
       "alt": "Vizz Ads card: Some services sell through a conversation.",
       "linkedin_text": "Nobody hires an interior designer from an ad alone.\n\nAt @Vizz Ads we run Meta lead ads for Anyon, a premium interior design studio. For a service like this, the sale starts with a conversation, so the ads are built to start one:\n\n→ Offer a consultation\nInvite homeowners to talk to a designer about their project. The first step feels smaller and safer than a hard sell.\n\n→ Keep the form short\nA few simple questions, so the design team can follow up quickly and personally.\n\n→ Speak to who's hiring\nHomeowners, designers and decorators hire for different reasons. Speak to each one.\n\nIf your service needs a chat before a sale, your ads should start that chat.\n\nWhat does the first conversation look like for your customers?",
       "page_reshare": "Nobody hires an interior designer from an ad alone. How we build lead ads that start the first conversation.",
-      "approved_at": "2026-10-23 10:39 UTC"
+      "approved_at": "2026-10-23 10:39 UTC",
+      "posted": {
+        "linkedin": "urn:li:share:7524025710701731840"
+      },
+      "posted_at": "2026-11-05 08:31"
     },
     {
       "id": "2026-11-05-consultation-first",
