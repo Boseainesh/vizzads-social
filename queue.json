@@ -418,6 +418,102 @@
         "posts/2026-11-13-how-we-work/13nov-how-we-work-2.jpg"
       ],
       "approved_at": "2026-11-05 09:31 UTC"
+    },
+    {
+      "id": "2026-11-17-linkedin-bf-week",
+      "when": "2026-11-17 08:30",
+      "platforms": [
+        "linkedin"
+      ],
+      "status": "awaiting_approval",
+      "code": "17-LI",
+      "images": [
+        "posts/2026-11-17-bf-week/17nov-bf-week-1.jpg"
+      ],
+      "alt": "Vizz Ads card: What not to touch this week.",
+      "linkedin_text": "It's Black Friday week. The best thing you can do for your ads right now is often nothing.\n\nWhat we're not touching in @Vizz Ads accounts this week:\n\n→ Winning ads\nEditing a live winner resets what Meta has learned, right when you need it most.\n\n→ Big budget jumps\nRaise in small steps. A sudden doubling can knock delivery off course.\n\n→ Untested new ideas\nNew ads need time to learn. Save them for December.\n\nWhat we are doing: checking tracking every morning, and keeping an eye on stock and the site.\n\nCalm accounts win the weekend. What's your one rule for Black Friday week?",
+      "page_reshare": "Black Friday week: the best thing you can do for your ads is often nothing. What we're not touching this week."
+    },
+    {
+      "id": "2026-11-17-bf-week",
+      "when": "2026-11-17 09:00",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "17-IGFB",
+      "images": [
+        "posts/2026-11-17-bf-week/17nov-bf-week-1.jpg",
+        "posts/2026-11-17-bf-week/17nov-bf-week-2.jpg"
+      ],
+      "alt": "Vizz Ads carousel: What not to touch this week. Watch, don't fiddle.",
+      "caption": "Black Friday week. The best thing you can do for your ads is often nothing.\n\nWhat not to touch:\n1. Your winning ads. Editing them resets what Meta has learned.\n2. Big budget jumps. Raise in small steps.\n3. Untested new ideas. Save them for December.\n\nInstead: check tracking every morning, and keep an eye on stock and the site.\n\nWant a second look before Friday? Get a Free Competitor Ad Check at vizzads.com\n\n#blackfriday #metaads #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "Black Friday week. The best thing you can do for your ads is often nothing.\n\nWhat not to touch:\n1. Your winning ads. Editing them resets what Meta has learned.\n2. Big budget jumps. Raise in small steps.\n3. Untested new ideas. Save them for December.\n\nInstead: check tracking every morning, and keep an eye on stock and the site.\n\nWant a second look before Friday? Get a Free Competitor Ad Check at vizzads.com",
+      "x_text": "Black Friday week. The best thing for your ads is often nothing.\n\nDon't touch:\n→ Your winning ads\n→ Budgets, in big jumps\n→ Untested new ideas\n\nDo: check tracking every morning, watch stock and the site.\n\nCalm accounts win the weekend.",
+      "x_images": [
+        "posts/2026-11-17-bf-week/17nov-bf-week-1.jpg",
+        "posts/2026-11-17-bf-week/17nov-bf-week-2.jpg"
+      ]
+    },
+    {
+      "id": "2026-11-19-linkedin-check-to-audit",
+      "when": "2026-11-19 08:30",
+      "platforms": [
+        "linkedin"
+      ],
+      "status": "awaiting_approval",
+      "code": "19-LI",
+      "images": [
+        "posts/2026-11-19-check-to-audit/19nov-check-to-audit-1.jpg"
+      ],
+      "alt": "Vizz Ads card: Outside first, then inside.",
+      "linkedin_text": "Most ad audits start inside the ad account. Ours starts outside it.\n\nAt @Vizz Ads we built the process in two steps:\n\n→ The Free Competitor Ad Check\nWe read every live ad you and your rivals run, from Meta's public Ad Library. Three gaps, three tests, within 48 hours. No access needed.\n\n→ The Ad Account Deep Audit\nThen we open the account, and judge it on your own orders and new customers, not just the platform's numbers.\n\nWhy that matters: Meta's sales count can miss real orders and claim ones it didn't cause. Checking it against your shop's own record of new customers shows what an order really costs.\n\nThen a 90-day plan to fix what we find.\n\nWhen did someone last check your ad numbers against your actual orders?",
+      "page_reshare": "Outside first, then inside: how we go from a free check of your public ads to an audit judged on your real orders."
+    },
+    {
+      "id": "2026-11-19-check-to-audit",
+      "when": "2026-11-19 09:00",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "19-IGFB",
+      "images": [
+        "posts/2026-11-19-check-to-audit/19nov-check-to-audit-1.jpg",
+        "posts/2026-11-19-check-to-audit/19nov-check-to-audit-2.jpg"
+      ],
+      "alt": "Vizz Ads carousel: Outside first, then inside. Two reads, one honest answer.",
+      "caption": "How we read an ad account: outside first, then inside.\n\nThe Free Competitor Ad Check starts with your public ads: what your rivals say that you don't.\n\nThe Ad Account Deep Audit then opens the account, and judges it on your own orders and new customers, not just the platform's numbers. Meta's sales count can miss real orders and claim ones it didn't cause, so we check it against your shop.\n\nThen a 90-day plan to fix what we find.\n\nStart with the free check at vizzads.com\n\n#metaads #adaudit #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "How we read an ad account: outside first, then inside.\n\nThe Free Competitor Ad Check starts with your public ads: what your rivals say that you don't.\n\nThe Ad Account Deep Audit then opens the account, and judges it on your own orders and new customers, not just the platform's numbers. Meta's sales count can miss real orders and claim ones it didn't cause, so we check it against your shop.\n\nThen a 90-day plan to fix what we find.\n\nStart with the free check at vizzads.com",
+      "x_text": "Most ad audits start inside the account. Ours starts outside.\n\n→ Free Competitor Ad Check: your public ads vs your rivals'\n→ Deep Audit: the account, judged on your own orders, not just Meta's numbers\n→ A 90-day plan to fix it",
+      "x_images": [
+        "posts/2026-11-19-check-to-audit/19nov-check-to-audit-1.jpg",
+        "posts/2026-11-19-check-to-audit/19nov-check-to-audit-2.jpg"
+      ]
+    },
+    {
+      "id": "2026-11-20-free-check",
+      "when": "2026-11-20 09:00",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "20-IGFB",
+      "images": [
+        "posts/2026-11-20-free-check/20nov-free-check-1.jpg",
+        "posts/2026-11-20-free-check/20nov-free-check-2.jpg"
+      ],
+      "alt": "Vizz Ads carousel: Three gaps your rivals are filling. Free, in 48 hours. How the Free Competitor Ad Check works.",
+      "caption": "Three gaps in your ads that your rivals are already filling. Free, in 48 hours.\n\nThe Free Competitor Ad Check:\n1. Tell us your brand and up to three rivals (or we'll pick them)\n2. We read every live Meta ad you and your rivals run\n3. You get 3 gaps and 3 tests to close them, in your inbox within 48 hours\n\nNo card. No access to your ad account. Plus a free 30-minute call to walk you through it.\n\nGet yours at vizzads.com\n\n#metaads #competitoranalysis #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "Three gaps in your ads that your rivals are already filling. Free, in 48 hours.\n\nThe Free Competitor Ad Check:\n1. Tell us your brand and up to three rivals (or we'll pick them)\n2. We read every live Meta ad you and your rivals run\n3. You get 3 gaps and 3 tests to close them, in your inbox within 48 hours\n\nNo card. No access to your ad account. Plus a free 30-minute call to walk you through it.\n\nGet yours at vizzads.com",
+      "x_text": "Three gaps in your ads that your rivals are already filling. Free, in 48 hours.\n\n→ Tell us your brand and rivals\n→ We read every live Meta ad\n→ You get 3 gaps and 3 tests to close them\n\nNo card. No ad account access. Link in the reply.",
+      "x_images": [
+        "posts/2026-11-20-free-check/20nov-free-check-1.jpg",
+        "posts/2026-11-20-free-check/20nov-free-check-2.jpg"
+      ]
     }
   ]
 }
