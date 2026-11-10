@@ -329,7 +329,7 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "approved",
+      "status": "posted",
       "code": "10-LI",
       "images": [
         "posts/2026-11-10-creative-snapshot/10nov-creative-snapshot-1.jpg"
@@ -337,7 +337,11 @@
       "alt": "Vizz Ads card: Your live ads, read in two minutes.",
       "linkedin_text": "Most brands have never read all of their own live ads in one sitting.\n\nSo at @Vizz Ads we built a way to do it. The Ad Creative Analysis reads every live Meta ad a brand runs and turns it into a short report a founder can act on.\n\nIt answers three questions:\n\n→ What are the ads really saying?\nNot what the brief said. What a customer actually sees.\n\n→ What proof is missing?\nA gap we often spot: the homepage has the reviews, the awards, the years in business. The ads have none of it.\n\n→ What would we test first?\nThree concrete tests, not a 40-page deck.\n\nWhen did you last read all your live ads?",
       "page_reshare": "We built a way to read every live Meta ad a brand runs in two minutes. Here's what it looks for.",
-      "approved_at": "2026-11-05 09:31 UTC"
+      "approved_at": "2026-11-05 09:31 UTC",
+      "posted": {
+        "linkedin": "urn:li:share:7525837747639500800"
+      },
+      "posted_at": "2026-11-10 08:32"
     },
     {
       "id": "2026-11-10-creative-snapshot",
