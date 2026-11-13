@@ -537,6 +537,102 @@
         "posts/2026-11-20-free-check/20nov-free-check-1.jpg",
         "posts/2026-11-20-free-check/20nov-free-check-2.jpg"
       ]
+    },
+    {
+      "id": "2026-11-24-linkedin-account-read",
+      "when": "2026-11-24 08:30",
+      "platforms": [
+        "linkedin"
+      ],
+      "status": "awaiting_approval",
+      "code": "24-LI",
+      "images": [
+        "posts/2026-11-24-account-read/24nov-account-read-1.jpg"
+      ],
+      "alt": "Vizz Ads card: We read first, then we change.",
+      "linkedin_text": "The most expensive thing in a new ad account is changing too much in week one.\n\nSo at @Vizz Ads every new account starts with a read, not a rebuild. We go through its whole history and sort every ad into three piles:\n\n→ Working\nProven ideas we build on, with new versions of what already wins.\n\n→ Tired\nIdeas that worked but have been seen too often. They need a fresh take, not a new strategy.\n\n→ Still learning\nToo new to judge. Touching them now just resets the clock.\n\nOnly then do we change anything. It's built into our system, so it happens the same way on every account.\n\nWhich pile is your best ad in?",
+      "page_reshare": "The most expensive thing in a new ad account is changing too much in week one. Here's how we read an account first."
+    },
+    {
+      "id": "2026-11-24-account-read",
+      "when": "2026-11-24 09:00",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "24-IGFB",
+      "images": [
+        "posts/2026-11-24-account-read/24nov-account-read-1.jpg",
+        "posts/2026-11-24-account-read/24nov-account-read-2.jpg"
+      ],
+      "alt": "Vizz Ads carousel: We read first, then we change. Three piles, one plan.",
+      "caption": "We read first, then we change.\n\nEvery new account we take on starts with a full read of its history, sorted into three piles:\n1. Working: build on it\n2. Tired: refresh it\n3. Still learning: leave it alone\n\nNo changes on day one. The first changes are the right ones.\n\nWhich pile is your best ad in?\n\n#metaads #paidsocial #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "We read first, then we change.\n\nEvery new account we take on starts with a full read of its history, sorted into three piles:\n1. Working: build on it\n2. Tired: refresh it\n3. Still learning: leave it alone\n\nNo changes on day one. The first changes are the right ones.\n\nWhich pile is your best ad in?",
+      "x_text": "We read first, then we change.\n\nEvery new account starts with a full read of its history, sorted into three piles:\n→ Working: build on it\n→ Tired: refresh it\n→ Still learning: leave it alone\n\nNo changes on day one.\n\nWhich pile is your best ad in?",
+      "x_images": [
+        "posts/2026-11-24-account-read/24nov-account-read-1.jpg",
+        "posts/2026-11-24-account-read/24nov-account-read-2.jpg"
+      ]
+    },
+    {
+      "id": "2026-11-26-linkedin-ad-gates",
+      "when": "2026-11-26 08:30",
+      "platforms": [
+        "linkedin"
+      ],
+      "status": "awaiting_approval",
+      "code": "26-LI",
+      "images": [
+        "posts/2026-11-26-ad-gates/26nov-ad-gates-1.jpg"
+      ],
+      "alt": "Vizz Ads card: Every Monday, every ad gets a verdict.",
+      "linkedin_text": "\"Let's give it another week\" is how most ad budgets leak.\n\nAt @Vizz Ads we replaced it with a Monday checklist. Every live ad is judged against fixed pass marks, set from the account's own best results, and checked against the shop's own new customers, not just the platform's numbers.\n\nEach ad gets one of four verdicts:\n\n→ Keep: it passes, so we build on it\n→ Refresh: the idea works, the version is tired\n→ Fix: people click but don't buy, so we fix the page or the offer, not the ad\n→ Stop: it fails, so the money moves to what works\n\nSame rules, every account, every week. No gut feel.\n\nHow do you decide when to switch an ad off?",
+      "page_reshare": "\"Let's give it another week\" is how most ad budgets leak. Here's the Monday checklist we use instead."
+    },
+    {
+      "id": "2026-11-26-ad-gates",
+      "when": "2026-11-26 09:00",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "26-IGFB",
+      "images": [
+        "posts/2026-11-26-ad-gates/26nov-ad-gates-1.jpg",
+        "posts/2026-11-26-ad-gates/26nov-ad-gates-2.jpg"
+      ],
+      "alt": "Vizz Ads carousel: Every Monday, every ad gets a verdict. Four verdicts, no guesswork.",
+      "caption": "Every Monday, every live ad gets a verdict.\n\nWe judge each one against fixed pass marks, not gut feel, and check the result against your shop's own new customers. Four possible verdicts:\n1. Keep: build on it\n2. Refresh: a new take on the same idea\n3. Fix: the page or the offer, not the ad\n4. Stop: move the money\n\nWant to see where your ads stand? Get a Free Competitor Ad Check at vizzads.com\n\n#metaads #paidsocial #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "Every Monday, every live ad gets a verdict.\n\nWe judge each one against fixed pass marks, not gut feel, and check the result against your shop's own new customers. Four possible verdicts:\n1. Keep: build on it\n2. Refresh: a new take on the same idea\n3. Fix: the page or the offer, not the ad\n4. Stop: move the money\n\nWant to see where your ads stand? Get a Free Competitor Ad Check at vizzads.com",
+      "x_text": "Every Monday, every live ad gets a verdict. Fixed pass marks, not gut feel:\n→ Keep: build on it\n→ Refresh: new take, same idea\n→ Fix: the page or the offer\n→ Stop: move the money\n\nChecked against the shop's own new customers.",
+      "x_images": [
+        "posts/2026-11-26-ad-gates/26nov-ad-gates-1.jpg",
+        "posts/2026-11-26-ad-gates/26nov-ad-gates-2.jpg"
+      ]
+    },
+    {
+      "id": "2026-11-27-black-friday-day",
+      "when": "2026-11-27 09:00",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "27-IGFB",
+      "images": [
+        "posts/2026-11-27-black-friday-day/27nov-black-friday-day-1.jpg",
+        "posts/2026-11-27-black-friday-day/27nov-black-friday-day-2.jpg"
+      ],
+      "alt": "Vizz Ads carousel: It's Black Friday. Check these today. Leave the rest alone.",
+      "caption": "It's Black Friday. Three things to check today:\n1. Are your ads still running?\n2. Is tracking still working?\n3. Is the stock still there?\n\nFive minutes, three times a day. Then leave the rest alone: don't pause your winners, don't launch new ideas today, and keep some budget for Cyber Monday.\n\nGood luck today.\n\n#blackfriday #metaads #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "It's Black Friday. Three things to check today:\n1. Are your ads still running?\n2. Is tracking still working?\n3. Is the stock still there?\n\nFive minutes, three times a day. Then leave the rest alone: don't pause your winners, don't launch new ideas today, and keep some budget for Cyber Monday.\n\nGood luck today.",
+      "x_text": "It's Black Friday. Check these today:\n→ Ads still running?\n→ Tracking still working?\n→ Stock still there?\n\nThen leave the rest alone. Don't pause winners, don't launch new ideas, keep budget for Cyber Monday.\n\nGood luck today.",
+      "x_images": [
+        "posts/2026-11-27-black-friday-day/27nov-black-friday-day-1.jpg",
+        "posts/2026-11-27-black-friday-day/27nov-black-friday-day-2.jpg"
+      ]
     }
   ]
 }
