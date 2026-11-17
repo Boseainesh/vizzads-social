@@ -453,7 +453,7 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "approved",
+      "status": "posted",
       "code": "17-LI",
       "images": [
         "posts/2026-11-17-bf-week/17nov-bf-week-1.jpg"
@@ -461,7 +461,11 @@
       "alt": "Vizz Ads card: What not to touch this week.",
       "linkedin_text": "It's Black Friday week. The best thing you can do for your ads right now is often nothing.\n\nWhat we're not touching in @Vizz Ads accounts this week:\n\n→ Winning ads\nEditing a live winner resets what Meta has learned, right when you need it most.\n\n→ Big budget jumps\nRaise in small steps. A sudden doubling can knock delivery off course.\n\n→ Untested new ideas\nNew ads need time to learn. Save them for December.\n\nWhat we are doing: checking tracking every morning, and keeping an eye on stock and the site.\n\nCalm accounts win the weekend. What's your one rule for Black Friday week?",
       "page_reshare": "Black Friday week: the best thing you can do for your ads is often nothing. What we're not touching this week.",
-      "approved_at": "2026-11-16 11:08 UTC"
+      "approved_at": "2026-11-16 11:08 UTC",
+      "posted": {
+        "linkedin": "urn:li:share:7528374324928475136"
+      },
+      "posted_at": "2026-11-17 08:31"
     },
     {
       "id": "2026-11-17-bf-week",
