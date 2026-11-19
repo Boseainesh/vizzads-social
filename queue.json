@@ -522,7 +522,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "approved",
+      "status": "posted",
       "code": "19-IGFB",
       "images": [
         "posts/2026-11-19-check-to-audit/19nov-check-to-audit-1.jpg",
@@ -536,7 +536,12 @@
         "posts/2026-11-19-check-to-audit/19nov-check-to-audit-1.jpg",
         "posts/2026-11-19-check-to-audit/19nov-check-to-audit-2.jpg"
       ],
-      "approved_at": "2026-11-16 11:08 UTC"
+      "approved_at": "2026-11-16 11:08 UTC",
+      "posted": {
+        "instagram": "18024361958937280",
+        "facebook": "662761746930877_122189846078977882"
+      },
+      "posted_at": "2026-11-19 09:03"
     },
     {
       "id": "2026-11-20-free-check",
