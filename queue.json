@@ -501,7 +501,7 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "approved",
+      "status": "posted",
       "code": "19-LI",
       "images": [
         "posts/2026-11-19-check-to-audit/19nov-check-to-audit-1.jpg"
@@ -509,7 +509,11 @@
       "alt": "Vizz Ads card: Outside first, then inside.",
       "linkedin_text": "Most ad audits start inside the ad account. Ours starts outside it.\n\nAt @Vizz Ads we built the process in two steps:\n\n→ The Free Competitor Ad Check\nWe read every live ad you and your rivals run, from Meta's public Ad Library. Three gaps, three tests, within 48 hours. No access needed.\n\n→ The Ad Account Deep Audit\nThen we open the account, and judge it on your own orders and new customers, not just the platform's numbers.\n\nWhy that matters: Meta's sales count can miss real orders and claim ones it didn't cause. Checking it against your shop's own record of new customers shows what an order really costs.\n\nThen a 90-day plan to fix what we find.\n\nWhen did someone last check your ad numbers against your actual orders?",
       "page_reshare": "Outside first, then inside: how we go from a free check of your public ads to an audit judged on your real orders.",
-      "approved_at": "2026-11-16 11:08 UTC"
+      "approved_at": "2026-11-16 11:08 UTC",
+      "posted": {
+        "linkedin": "urn:li:share:7529099168250908672"
+      },
+      "posted_at": "2026-11-19 08:32"
     },
     {
       "id": "2026-11-19-check-to-audit",
