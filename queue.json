@@ -572,6 +572,48 @@
       "posted_at": "2026-11-20 09:03"
     },
     {
+      "id": "2026-11-23-linkedin-google-check",
+      "when": "2026-11-23 08:30",
+      "platforms": [
+        "linkedin"
+      ],
+      "status": "awaiting_approval",
+      "code": "23-LI",
+      "images": [
+        "posts/2026-11-23-google-check/23nov-google-check-1.jpg"
+      ],
+      "alt": "Vizz Ads card: Who's on your own name on Google? We check, free. A sample Google Competitor Ad Check for a made-up brand.",
+      "linkedin_text": "Who's sitting on your brand name on Google?\n\nPeople who type your name have already chosen you. If a rival's ad sits above yours there, it's the last thing they read before they click.\n\nThe @Vizz Ads Free Competitor Ad Check now covers Google as well as Meta:\n\n→ Every ad Google lists for you and up to three rivals, from its public Ads Transparency Center\n→ Live searches on your name and your category, run three times across a day\n→ A scorecard, the three biggest gaps and three tests to close them, in 48 hours\n\nWhy three times? Google shows different ads at different times. An ad not seen in one search can still be running, so we report \"seen in 2 of 3 checks\", never a plain yes or no.\n\nIn our sample, a made-up homeware brand, a rival's Black Friday ad sat above the brand on its own name in 2 of 3 checks.\n\nFree, no card, no access to your ad account. Pick Meta, Google or both: vizzads.com/competitor-ad-check",
+      "page_reshare": "Our Free Competitor Ad Check now covers Google too: who's seen on your name, and the three gaps your rivals are filling.",
+      "badge": "Google · new",
+      "urgent_label": "Google Free Competitor Ad Check · LinkedIn",
+      "urgent": true
+    },
+    {
+      "id": "2026-11-23-google-check",
+      "when": "2026-11-23 09:00",
+      "platforms": [
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "23-FB",
+      "images": [
+        "posts/2026-11-23-google-check/23nov-google-check-1.jpg",
+        "posts/2026-11-23-google-check/23nov-google-check-2.jpg"
+      ],
+      "alt": "Vizz Ads card: Who's on your own name on Google? We check, free. A sample Google Competitor Ad Check for a made-up brand.",
+      "caption": "Who's on your own name on Google?\n\nOur Free Competitor Ad Check now covers Google as well as Meta:\n1. Every ad Google lists for you and up to three rivals\n2. Live searches on your name and your category, run three times across a day\n3. A scorecard, 3 gaps and 3 tests, in your inbox within 48 hours\n\nShown here on a sample for a made-up brand: a rival's Black Friday ad sat above it on its own name in 2 of 3 checks.\n\nFree, no card, no access to your ad account. Pick Meta, Google or both at vizzads.com/competitor-ad-check\n\n#googleads #paidsearch #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "Who's on your own name on Google?\n\nOur Free Competitor Ad Check now covers Google as well as Meta:\n1. Every ad Google lists for you and up to three rivals\n2. Live searches on your name and your category, run three times across a day\n3. A scorecard, 3 gaps and 3 tests, in your inbox within 48 hours\n\nShown here on a sample for a made-up brand: a rival's Black Friday ad sat above it on its own name in 2 of 3 checks.\n\nFree, no card, no access to your ad account. Pick Meta, Google or both at vizzads.com/competitor-ad-check",
+      "x_text": "Who's on your own name on Google?\n\nOur Free Competitor Ad Check now covers Google:\n→ Every ad Google lists for you and 3 rivals\n→ Your name and category searched 3 times a day\n→ 3 gaps, 3 tests, in 48 hours\n\nFree. Meta, Google or both. Link in the reply.",
+      "x_images": [
+        "posts/2026-11-23-google-check/23nov-google-check-1.jpg",
+        "posts/2026-11-23-google-check/23nov-google-check-2.jpg"
+      ],
+      "badge": "Google · new",
+      "urgent_label": "Google Free Competitor Ad Check · Facebook + X",
+      "urgent": true
+    },
+    {
       "id": "2026-11-24-linkedin-account-read",
       "when": "2026-11-24 08:30",
       "platforms": [
@@ -609,6 +651,48 @@
         "posts/2026-11-24-account-read/24nov-account-read-2.jpg"
       ],
       "approved_at": "2026-11-16 11:08 UTC"
+    },
+    {
+      "id": "2026-11-25-linkedin-google-analysis",
+      "when": "2026-11-25 08:30",
+      "platforms": [
+        "linkedin"
+      ],
+      "status": "awaiting_approval",
+      "code": "25-LI",
+      "images": [
+        "posts/2026-11-25-google-analysis/25nov-google-analysis-1.jpg"
+      ],
+      "alt": "Vizz Ads card: Every Google ad, read and counted. A sample Google Ad Creative Analysis for a made-up brand.",
+      "linkedin_text": "Most ad reviews look at a handful of ads. Ours reads every one.\n\nThe @Vizz Ads Ad Creative Analysis now covers Google too. Every live Google text and video ad is read, not sampled, and every finding is counted against your rivals:\n\n→ Who's seen on your brand name, and on the searches people make before they know you, across three checks\n→ How often you put out new ads, against your rivals\n→ Your homepage's claims against your ads, plus the slips a shopper can see: typos, old offers\n→ Shopping and Google video ads, side by side with your rivals'\n→ A work list in order, each item marked as a settings change, new copy or new creative\n\nIn our sample, a made-up investment brand, the homepage led with its low fee. 0 of its 12 live Google ads said it.\n\nMeta, Google or both, from public data only: vizzads.com/ad-creative-analysis",
+      "page_reshare": "Every live Google ad, read and counted against your rivals: our Ad Creative Analysis now covers Google.",
+      "badge": "Google · new",
+      "urgent_label": "Google Ad Creative Analysis · LinkedIn",
+      "urgent": true
+    },
+    {
+      "id": "2026-11-25-google-analysis",
+      "when": "2026-11-25 09:00",
+      "platforms": [
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "25-FB",
+      "images": [
+        "posts/2026-11-25-google-analysis/25nov-google-analysis-1.jpg",
+        "posts/2026-11-25-google-analysis/25nov-google-analysis-2.jpg"
+      ],
+      "alt": "Vizz Ads card: Every Google ad, read and counted. A sample Google Ad Creative Analysis for a made-up brand.",
+      "caption": "Every Google ad, read and counted.\n\nOur Ad Creative Analysis now covers Google:\n1. Every live Google text and video ad read, not a sample\n2. Who's seen on your brand name, across three checks\n3. Your homepage's claims against your ads\n4. Shopping and Google video ads against your rivals'\n5. A work list in order, ready for your team\n\nIn the sample shown, a made-up brand's homepage led with its low fee. 0 of its 12 live Google ads said it.\n\nMeta, Google or both at vizzads.com/ad-creative-analysis\n\n#googleads #paidsearch #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "Every Google ad, read and counted.\n\nOur Ad Creative Analysis now covers Google:\n1. Every live Google text and video ad read, not a sample\n2. Who's seen on your brand name, across three checks\n3. Your homepage's claims against your ads\n4. Shopping and Google video ads against your rivals'\n5. A work list in order, ready for your team\n\nIn the sample shown, a made-up brand's homepage led with its low fee. 0 of its 12 live Google ads said it.\n\nMeta, Google or both at vizzads.com/ad-creative-analysis",
+      "x_text": "Most ad reviews read a few ads. Ours reads every one.\n\nOur Ad Creative Analysis now covers Google:\n→ Every live Google ad read and counted\n→ Who's seen on your name, 3 checks\n→ Homepage claims vs your ads\n→ A work list, in order\n\nMeta, Google or both. Link in the reply.",
+      "x_images": [
+        "posts/2026-11-25-google-analysis/25nov-google-analysis-1.jpg",
+        "posts/2026-11-25-google-analysis/25nov-google-analysis-2.jpg"
+      ],
+      "badge": "Google · new",
+      "urgent_label": "Google Ad Creative Analysis · Facebook + X",
+      "urgent": true
     },
     {
       "id": "2026-11-26-linkedin-ad-gates",
@@ -673,6 +757,46 @@
       "approved_at": "2026-11-16 11:08 UTC"
     },
     {
+      "id": "2026-11-30-linkedin-google-deep-audit",
+      "when": "2026-11-30 08:30",
+      "platforms": [
+        "linkedin"
+      ],
+      "status": "awaiting_approval",
+      "code": "30-LI",
+      "images": [
+        "posts/2026-11-30-google-deep-audit/30nov-google-deep-audit-1.jpg"
+      ],
+      "alt": "Vizz Ads card: How much of your Performance Max is your own name? A sample Google Ad Account Deep Audit for a made-up brand.",
+      "linkedin_text": "How much of your Performance Max is your own name?\n\nPerformance Max can show on any search, including people typing your brand. Those people had already chosen you. Count them as new sales and Performance Max looks better than it is.\n\nThe @Vizz Ads Ad Account Deep Audit now covers Google. With read-only access, we judge each campaign on the job it was set up to do:\n\n→ Your brand name: rivals on it, and how much of it Performance Max is buying\n→ Category searches and video: are you reaching people before they search for you?\n→ The searches people actually typed, and spend lost on searches that were never going to buy\n→ A set-up check, \"Is Google firing on every front?\": feed, products never shown, headlines, videos and policy, each rated red, amber or green\n→ What an order really costs, judged on your shop's own records, not Google's count\n\nThen a 90-day plan, three tests and a walkthrough call.\n\nIn our sample, a made-up homeware brand, 612 of 1,610 Performance Max orders came from searches with the brand's own name in them.\n\nHow much of yours is your own name?",
+      "page_reshare": "Our Ad Account Deep Audit now covers Google: each campaign judged on its own job, against your shop's own orders.",
+      "badge": "Google · new",
+      "urgent_label": "Google Ad Account Deep Audit · LinkedIn"
+    },
+    {
+      "id": "2026-11-30-google-deep-audit",
+      "when": "2026-11-30 09:00",
+      "platforms": [
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "30-FB",
+      "images": [
+        "posts/2026-11-30-google-deep-audit/30nov-google-deep-audit-1.jpg",
+        "posts/2026-11-30-google-deep-audit/30nov-google-deep-audit-2.jpg"
+      ],
+      "alt": "Vizz Ads card: How much of your Performance Max is your own name? A sample Google Ad Account Deep Audit for a made-up brand.",
+      "caption": "How much of your Performance Max is your own name?\n\nOur Ad Account Deep Audit now covers Google. With read-only access, each campaign is judged on the job it was set up to do:\n1. Your brand name and Performance Max\n2. Category searches and video\n3. A set-up check, each area rated red, amber or green\n4. A 90-day plan and three tests\n\nIn the sample shown, a made-up brand, 612 of 1,610 Performance Max orders came from searches with its own name in them.\n\nHow much of yours is your own name?\n\n#googleads #paidsearch #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "How much of your Performance Max is your own name?\n\nOur Ad Account Deep Audit now covers Google. With read-only access, each campaign is judged on the job it was set up to do:\n1. Your brand name and Performance Max\n2. Category searches and video\n3. A set-up check, each area rated red, amber or green\n4. A 90-day plan and three tests\n\nIn the sample shown, a made-up brand, 612 of 1,610 Performance Max orders came from searches with its own name in them.\n\nHow much of yours is your own name?",
+      "x_text": "How much of your Performance Max is your own name?\n\nOur Ad Account Deep Audit now covers Google:\n→ Each campaign judged on its own job\n→ The searches people actually typed\n→ A set-up check, red to green\n→ A 90-day plan\n\nRead-only access. Link in the reply.",
+      "x_images": [
+        "posts/2026-11-30-google-deep-audit/30nov-google-deep-audit-1.jpg",
+        "posts/2026-11-30-google-deep-audit/30nov-google-deep-audit-2.jpg"
+      ],
+      "badge": "Google · new",
+      "urgent_label": "Google Ad Account Deep Audit · Facebook + X"
+    },
+    {
       "id": "2026-12-01-linkedin-creative-engine",
       "when": "2026-12-01 08:30",
       "platforms": [
@@ -684,8 +808,9 @@
         "posts/2026-12-01-creative-engine/01dec-creative-engine-1.jpg"
       ],
       "alt": "Vizz Ads card: AI makes the picture. We write the words.",
-      "linkedin_text": "Most AI ad pictures fall down on the words: wrong font, a misspelt offer, a price that's slightly off.\n\nSo at @Vizz Ads we split the job in two.\n\n→ AI makes the picture\nEvery picture starts as a checked brief, and the AI leaves space for the words but draws none of them.\n\n→ We set the words\nHeadline, offer and button go on afterwards, in the brand's own fonts, the same way every time.\n\n→ Every word gets read back\nAn automatic check confirms every line and every number before a person looks at it.\n\nThe result: when an offer or a legal line changes, we change the words, not the picture.\n\nWhat slows down your new ads the most?",
-      "page_reshare": "Most AI ad pictures fall down on the words. Here's how we keep the picture and the words apart."
+      "linkedin_text": "Most AI ad pictures fall down on the words: wrong font, a misspelt offer, a price that's slightly off.\n\nSo at @Vizz Ads we split the job in two.\n\n→ AI makes the picture\nEvery picture starts as a checked brief, and the AI leaves space for the words but draws none of them.\n\n→ We set the words\nHeadline, offer and button go on afterwards, in the brand's own fonts, the same way every time.\n\n→ Every word gets read back\nAn automatic check confirms every line and every number before a person looks at it.\n\nThe result: when an offer or a legal line changes, we change the words, not the picture. It works the same for Meta ads and for Google's image and Performance Max ads.\n\nWhat slows down your new ads the most?",
+      "page_reshare": "Most AI ad pictures fall down on the words. Here's how we keep the picture and the words apart.",
+      "change_note": "Updated today: one line added so it covers Meta and Google."
     },
     {
       "id": "2026-12-01-creative-engine",
@@ -701,13 +826,54 @@
         "posts/2026-12-01-creative-engine/01dec-creative-engine-2.jpg"
       ],
       "alt": "Vizz Ads carousel: AI makes the picture. We write the words. Picture first, words second.",
-      "caption": "AI makes the picture. We write the words.\n\nEvery ad picture we make starts as a checked brief. AI makes the picture with no text on it, and the words go on afterwards, in the brand's own fonts:\n1. A checked brief for every picture\n2. AI makes it, with no text\n3. Words set in the brand's real fonts\n4. Every word read back before anyone sees it\n\nSo a headline, an offer or a legal line can change without making a new picture.\n\nWhat slows down your new ads the most?\n\n#metaads #paidsocial #ukbusiness #ecommerceuk #vizzads",
-      "facebook_caption": "AI makes the picture. We write the words.\n\nEvery ad picture we make starts as a checked brief. AI makes the picture with no text on it, and the words go on afterwards, in the brand's own fonts:\n1. A checked brief for every picture\n2. AI makes it, with no text\n3. Words set in the brand's real fonts\n4. Every word read back before anyone sees it\n\nSo a headline, an offer or a legal line can change without making a new picture.\n\nWhat slows down your new ads the most?",
+      "caption": "AI makes the picture. We write the words.\n\nEvery ad picture we make starts as a checked brief. AI makes the picture with no text on it, and the words go on afterwards, in the brand's own fonts:\n1. A checked brief for every picture\n2. AI makes it, with no text\n3. Words set in the brand's real fonts\n4. Every word read back before anyone sees it\n\nSo a headline, an offer or a legal line can change without making a new picture, on Meta or Google.\n\nWhat slows down your new ads the most?\n\n#metaads #paidsocial #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "AI makes the picture. We write the words.\n\nEvery ad picture we make starts as a checked brief. AI makes the picture with no text on it, and the words go on afterwards, in the brand's own fonts:\n1. A checked brief for every picture\n2. AI makes it, with no text\n3. Words set in the brand's real fonts\n4. Every word read back before anyone sees it\n\nSo a headline, an offer or a legal line can change without making a new picture, on Meta or Google.\n\nWhat slows down your new ads the most?",
       "x_text": "AI makes the picture. We write the words.\n\n→ A checked brief for every picture\n→ AI makes it, with no text\n→ Words set in the brand's own fonts\n→ Every word read back\n\nSo the words can change without a new picture.\n\nWhat slows down your new ads the most?",
       "x_images": [
         "posts/2026-12-01-creative-engine/01dec-creative-engine-1.jpg",
         "posts/2026-12-01-creative-engine/01dec-creative-engine-2.jpg"
-      ]
+      ],
+      "change_note": "Updated today: one line added so it covers Meta and Google."
+    },
+    {
+      "id": "2026-12-02-linkedin-google-checked",
+      "when": "2026-12-02 08:30",
+      "platforms": [
+        "linkedin"
+      ],
+      "status": "awaiting_approval",
+      "code": "02-LI",
+      "images": [
+        "posts/2026-12-02-google-checked/02dec-google-checked-1.jpg"
+      ],
+      "alt": "Vizz Ads card: We checked our outside read against a real account. One search proves nothing.",
+      "linkedin_text": "How do you know a read of someone's ads from the outside is right?\n\nWe checked ours.\n\nBefore launching the Google version of our free check, @Vizz Ads read Google's public ad data for an account we run, then compared it with the account itself:\n\n→ For every campaign we checked, the launch and stop dates we read in public matched the account to the day: brand search, Performance Max and Demand Gen\n→ Google lists Performance Max ads in public that never appear in the account's own ad report\n→ One search proves nothing: a rival sat above the brand on its own name at 12:15 and was gone by 12:35. So every search now runs three times across a day\n→ An ad blocker was hiding ads in our first test. Every check now runs with it off\n\nPublic data shows what's running, not what's working. But what it shows, it shows accurately.\n\nThat's what goes into every Free Competitor Ad Check, on Meta or Google: vizzads.com/competitor-ad-check",
+      "page_reshare": "We checked our outside read of Google ads against a real account. Launch and stop dates matched to the day.",
+      "badge": "Google · new",
+      "urgent_label": "Google: we checked our outside read against a real account · LinkedIn"
+    },
+    {
+      "id": "2026-12-02-google-checked",
+      "when": "2026-12-02 09:00",
+      "platforms": [
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "02-FB",
+      "images": [
+        "posts/2026-12-02-google-checked/02dec-google-checked-1.jpg",
+        "posts/2026-12-02-google-checked/02dec-google-checked-2.jpg"
+      ],
+      "alt": "Vizz Ads card: We checked our outside read against a real account. One search proves nothing.",
+      "caption": "We checked our outside read against a real account.\n\nBefore launching the Google version of our free check, we read Google's public ad data for an account we run and compared it with the account itself:\n1. Launch and stop dates matched to the day, for every campaign we checked\n2. Performance Max ads show in public data, even though they never appear in the account's own ad report\n3. One search proves nothing: a rival sat above the brand on its own name at 12:15 and was gone by 12:35, so every search now runs three times a day\n4. An ad blocker hid ads in our first test, so every check now runs with it off\n\nFree, on Meta or Google: vizzads.com/competitor-ad-check\n\n#googleads #paidsearch #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "We checked our outside read against a real account.\n\nBefore launching the Google version of our free check, we read Google's public ad data for an account we run and compared it with the account itself:\n1. Launch and stop dates matched to the day, for every campaign we checked\n2. Performance Max ads show in public data, even though they never appear in the account's own ad report\n3. One search proves nothing: a rival sat above the brand on its own name at 12:15 and was gone by 12:35, so every search now runs three times a day\n4. An ad blocker hid ads in our first test, so every check now runs with it off\n\nFree, on Meta or Google: vizzads.com/competitor-ad-check",
+      "x_text": "We checked our outside read of Google ads against a real account.\n\n→ Launch and stop dates matched to the day\n→ Performance Max ads show in public data\n→ One search proves nothing, so we run each 3 times a day\n\nThat's what goes into our free check. Link in the reply.",
+      "x_images": [
+        "posts/2026-12-02-google-checked/02dec-google-checked-1.jpg",
+        "posts/2026-12-02-google-checked/02dec-google-checked-2.jpg"
+      ],
+      "badge": "Google · new",
+      "urgent_label": "Google: we checked our outside read against a real account · Facebook + X"
     },
     {
       "id": "2026-12-03-linkedin-free-first-step",
@@ -721,8 +887,9 @@
         "posts/2026-12-03-free-first-step/03dec-free-first-step-1.jpg"
       ],
       "alt": "Vizz Ads card: We rebuilt our website around one free first step.",
-      "linkedin_text": "We rebuilt the @Vizz Ads website around one idea: you should see what we'd find before you pay us anything.\n\nSo there are now three steps, and the first one is free:\n\n→ Free Competitor Ad Check\nYour live Meta ads against up to three rivals'. 3 gaps, 3 tests, in 48 hours. No card, no access to your ad account.\n\n→ Ad Creative Analysis\nA deeper read of your ads and your rivals', with a list of what to change first.\n\n→ Ad Account Deep Audit\nInside the account: what worked, what failed, what was never tried, and a 90-day plan.\n\nStart outside your account. Go inside only when it's worth it.\n\nThe free check is at vizzads.com/competitor-ad-check",
-      "page_reshare": "You should see what we'd find before you pay us anything. That's why the first step on our new website is free."
+      "linkedin_text": "We rebuilt the @Vizz Ads website around one idea: you should see what we'd find before you pay us anything.\n\nSo there are now three steps, the first one is free, and each one now works for Meta, Google or both:\n\n→ Free Competitor Ad Check\nYour live ads against up to three rivals'. On Google, we also search your name and your category three times across a day. 3 gaps, 3 tests, in 48 hours. No card, no access to your ad account.\n\n→ Ad Creative Analysis\nA deeper read of every live ad, yours and your rivals', with a list of what to change first.\n\n→ Ad Account Deep Audit\nInside the account, judged on your own sales records: what worked, what failed, what was never tried, and a 90-day plan.\n\nStart outside your account. Go inside only when it's worth it.\n\nThe free check is at vizzads.com/competitor-ad-check",
+      "page_reshare": "You should see what we'd find before you pay us anything. That's why the first step on our new website is free, on Meta, Google or both.",
+      "change_note": "Updated today: now says Meta, Google or both (text and slide 2)."
     },
     {
       "id": "2026-12-03-free-first-step",
@@ -738,13 +905,14 @@
         "posts/2026-12-03-free-first-step/03dec-free-first-step-2.jpg"
       ],
       "alt": "Vizz Ads carousel: We rebuilt our website around one free first step. Three steps, free first.",
-      "caption": "We rebuilt our website around one free first step.\n\nBefore you pay us anything, you see where your rivals' ads are ahead of yours. Three steps:\n1. Free Competitor Ad Check: 3 gaps and 3 tests, in 48 hours\n2. Ad Creative Analysis: a deeper read of your ads and your rivals'\n3. Ad Account Deep Audit: inside your account, with a 90-day plan\n\nStart outside your account. Go inside only when it's worth it.\n\nStart free at vizzads.com/competitor-ad-check\n\n#metaads #competitoranalysis #ukbusiness #ecommerceuk #vizzads",
-      "facebook_caption": "We rebuilt our website around one free first step.\n\nBefore you pay us anything, you see where your rivals' ads are ahead of yours. Three steps:\n1. Free Competitor Ad Check: 3 gaps and 3 tests, in 48 hours\n2. Ad Creative Analysis: a deeper read of your ads and your rivals'\n3. Ad Account Deep Audit: inside your account, with a 90-day plan\n\nStart outside your account. Go inside only when it's worth it.\n\nStart free at vizzads.com/competitor-ad-check",
-      "x_text": "We rebuilt our website around one free first step.\n\n→ Free Competitor Ad Check: 3 gaps, 3 tests, 48 hours\n→ Ad Creative Analysis\n→ Ad Account Deep Audit\n\nSee where your rivals' ads are ahead of yours before you pay anything. Link in the reply.",
+      "caption": "We rebuilt our website around one free first step.\n\nBefore you pay us anything, you see where your rivals' ads are ahead of yours, on Meta, Google or both. Three steps:\n1. Free Competitor Ad Check: 3 gaps and 3 tests, in 48 hours\n2. Ad Creative Analysis: a deeper read of your ads and your rivals'\n3. Ad Account Deep Audit: inside your account, with a 90-day plan\n\nStart outside your account. Go inside only when it's worth it.\n\nStart free at vizzads.com/competitor-ad-check\n\n#metaads #googleads #competitoranalysis #ukbusiness #vizzads",
+      "facebook_caption": "We rebuilt our website around one free first step.\n\nBefore you pay us anything, you see where your rivals' ads are ahead of yours, on Meta, Google or both. Three steps:\n1. Free Competitor Ad Check: 3 gaps and 3 tests, in 48 hours\n2. Ad Creative Analysis: a deeper read of your ads and your rivals'\n3. Ad Account Deep Audit: inside your account, with a 90-day plan\n\nStart outside your account. Go inside only when it's worth it.\n\nStart free at vizzads.com/competitor-ad-check",
+      "x_text": "We rebuilt our website around one free first step.\n\n→ Free Competitor Ad Check: 3 gaps, 3 tests, 48 hours\n→ Ad Creative Analysis\n→ Ad Account Deep Audit\n\nMeta, Google or both. See where rivals are ahead before you pay anything. Link in the reply.",
       "x_images": [
         "posts/2026-12-03-free-first-step/03dec-free-first-step-1.jpg",
         "posts/2026-12-03-free-first-step/03dec-free-first-step-2.jpg"
-      ]
+      ],
+      "change_note": "Updated today: now says Meta, Google or both (text and slide 2)."
     },
     {
       "id": "2026-12-04-inside-the-check",
@@ -759,14 +927,15 @@
         "posts/2026-12-04-inside-the-check/04dec-inside-the-check-1.jpg",
         "posts/2026-12-04-inside-the-check/04dec-inside-the-check-2.jpg"
       ],
-      "alt": "Vizz Ads carousel: Inside a Free Competitor Ad Check on a made-up brand. Three gaps, three tests.",
-      "caption": "What a Free Competitor Ad Check finds, shown on Oakhollow Home, a made-up homeware brand.\n\nAll three rivals were already selling Christmas. Oakhollow had no holiday ads at all. The three gaps:\n1. No holiday ads: 3 of 3 rivals run them, Oakhollow runs 0\n2. Product on white: rivals show it in a real room, Oakhollow never does\n3. Free delivery: on its homepage, in none of its ads\n\nEach gap is counted from public ads, with one test to close it.\n\nGet yours free in 48 hours at vizzads.com/competitor-ad-check\n\n#metaads #competitoranalysis #ukbusiness #ecommerceuk #vizzads",
-      "facebook_caption": "What a Free Competitor Ad Check finds, shown on Oakhollow Home, a made-up homeware brand.\n\nAll three rivals were already selling Christmas. Oakhollow had no holiday ads at all. The three gaps:\n1. No holiday ads: 3 of 3 rivals run them, Oakhollow runs 0\n2. Product on white: rivals show it in a real room, Oakhollow never does\n3. Free delivery: on its homepage, in none of its ads\n\nEach gap is counted from public ads, with one test to close it.\n\nGet yours free in 48 hours at vizzads.com/competitor-ad-check",
-      "x_text": "Inside a Free Competitor Ad Check, on a made-up brand:\n\n→ 3 of 3 rivals run holiday ads. Our sample brand: 0\n→ Rivals show the product at home. It shows it on white\n→ Free delivery on its homepage, in none of its ads\n\n3 gaps, 3 tests. Free, in 48 hours. Link in the reply.",
+      "alt": "Vizz Ads carousel: Inside a Free Competitor Ad Check on Meta and Google for a made-up brand. Gaps on each platform.",
+      "caption": "What a Free Competitor Ad Check finds, shown on Oakhollow Home, a made-up homeware brand, on Meta and Google.\n\nOn Meta:\n1. All three rivals already run holiday ads. Oakhollow runs none\n2. Free delivery is on its homepage, but in none of its ads\n\nOn Google:\n3. A rival's Black Friday ad sat above it on its own name in 2 of 3 checks\n4. It runs no Google video ads; its rivals run 3 to 11 each\n\nEach gap is counted from public ads, on each platform against the rivals that advertise there, with a test to close it.\n\nGet yours free in 48 hours at vizzads.com/competitor-ad-check\n\n#metaads #googleads #competitoranalysis #ukbusiness #vizzads",
+      "facebook_caption": "What a Free Competitor Ad Check finds, shown on Oakhollow Home, a made-up homeware brand, on Meta and Google.\n\nOn Meta:\n1. All three rivals already run holiday ads. Oakhollow runs none\n2. Free delivery is on its homepage, but in none of its ads\n\nOn Google:\n3. A rival's Black Friday ad sat above it on its own name in 2 of 3 checks\n4. It runs no Google video ads; its rivals run 3 to 11 each\n\nEach gap is counted from public ads, on each platform against the rivals that advertise there, with a test to close it.\n\nGet yours free in 48 hours at vizzads.com/competitor-ad-check",
+      "x_text": "Inside a free check, Meta and Google, on a made-up brand:\n\n→ Meta: 3 of 3 rivals run holiday ads. It runs 0\n→ Google: a rival's ad sat above it on its own name in 2 of 3 checks\n→ Google: 0 video ads, rivals 3–11\n\nFree, in 48 hours. Link in the reply.",
       "x_images": [
         "posts/2026-12-04-inside-the-check/04dec-inside-the-check-1.jpg",
         "posts/2026-12-04-inside-the-check/04dec-inside-the-check-2.jpg"
-      ]
+      ],
+      "change_note": "Rebuilt today: now shows the Meta and Google sample check (both slides and text)."
     }
   ]
 }

@@ -58,23 +58,29 @@ def card(p):
         if p.get("page_reshare"):
             texts += block("Vizz Ads page reshare · you, at midday", p["page_reshare"], copy=True)
     if "caption" in p:
-        texts += block("Instagram caption", p["caption"])
-        if p.get("facebook_caption"):
-            texts += '<p class="note">Facebook gets the same caption without the hashtags.</p>'
+        if "instagram" in p["platforms"]:
+            texts += block("Instagram caption", p["caption"])
+            if p.get("facebook_caption"):
+                texts += '<p class="note">Facebook gets the same caption without the hashtags.</p>'
+        else:
+            texts += block("Facebook caption", p.get("facebook_caption", p["caption"]))
     if p.get("x_text"):
         texts += block("X · post by hand", p["x_text"], copy=True,
-                       note="Attach slide 1. Put vizzads.com in a reply, not the post.")
+                       note=("Attach both slides. " if len(p.get("x_images", [])) > 1 else "Attach slide 1. ") + "Put the link in a reply, not the post.")
     for i, t in enumerate(p.get("x_thread", []), 1):
         texts += block(f"X thread · post {i} of {len(p['x_thread'])}", t, copy=True)
     if p.get("x_note"):
         texts += f'<p class="note">{esc(p["x_note"])}</p>'
+    badge = f'<span class="badge">{esc(p["badge"])}</span>' if p.get("badge") else ""
+    change = f'<p class="change">{esc(p["change_note"])}</p>' if p.get("change_note") else ""
     return f"""
-<article class="post" id="{p['code']}">
+<article class="post{' flag' if p.get('badge') else ''}" id="{p['code']}-{when:%d%b}">
   <header class="post-head">
     <div class="when"><span class="day">{when:%a %-d %b}</span><span class="time">{when:%H:%M}</span></div>
     <div class="meta"><span class="code">{p['code']}</span><span class="pill {pill[1]}">{pill[0]}</span></div>
   </header>
-  <div class="chips">{chips}</div>
+  <div class="chips">{badge}{chips}</div>
+  {change}
   {strip}
   <div class="texts">{texts}</div>
 </article>"""
@@ -97,6 +103,17 @@ def main(out, days=14):
     for monday, ps in weeks.items():
         body += (f'<section class="week"><h2>Week of {monday:%-d %b}</h2>'
                  + "".join(card(p) for p in ps) + "</section>")
+    urgent = [p for p in posts if p.get("urgent") and p.get("status") == "awaiting_approval"]
+    top = ""
+    if urgent:
+        items = "".join(
+            f'<li><a href="#{p["code"]}-{datetime.strptime(p["when"], "%Y-%m-%d %H:%M"):%d%b}">'
+            f'<code>{p["code"]}</code></a> {datetime.strptime(p["when"], "%Y-%m-%d %H:%M"):%a %-d %b %H:%M}'
+            f' · {esc(p.get("urgent_label", ""))}</li>' for p in urgent)
+        top = ('<section class="urgent"><h2>Approve first: due before 27 Nov</h2>'
+               f'<ul>{items}</ul><p class="note">Reply <code>approve '
+               + " ".join(p["code"] for p in urgent) + '</code> to approve all of these.</p></section>')
+    body = top + body
     stamp = datetime.now(UK).strftime("%-d %b %Y, %H:%M")
     page = TEMPLATE.replace("{{BODY}}", body).replace("{{WAITING}}", str(waiting)) \
         .replace("{{TOTAL}}", str(len(posts))).replace("{{STAMP}}", stamp)
@@ -158,6 +175,13 @@ body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px
 .copy{font:inherit;font-size:12px;font-weight:600;color:var(--fg);background:transparent;border:1px solid var(--line);border-radius:6px;padding:3px 10px;cursor:pointer}
 .copy:hover{border-color:var(--coral)} .copy:focus-visible{outline:2px solid var(--coral);outline-offset:2px}
 .stamp{font-size:12px;color:var(--muted)}
+.badge{font-size:12px;font-weight:700;padding:2px 9px;border-radius:999px;background:var(--coral);color:#0B132B}
+.post.flag{border-color:var(--coral);border-width:2px}
+.change{margin:0;font-size:13px;color:var(--fg);background:var(--bg);border-radius:6px;padding:8px 10px}
+.urgent{background:var(--surface);border:2px solid var(--coral);border-radius:10px;padding:16px 18px;display:grid;gap:8px}
+.urgent h2{font-family:var(--display);font-size:18px;margin:0}
+.urgent ul{margin:0;padding-left:18px;display:grid;gap:4px}
+.urgent a{color:var(--fg)} .urgent code{font-family:ui-monospace, Menlo, monospace;font-size:13px;font-weight:600}
 </style>
 <div class="wrap">
   <div class="top">
