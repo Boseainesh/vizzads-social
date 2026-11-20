@@ -550,7 +550,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "approved",
+      "status": "posted",
       "code": "20-IGFB",
       "images": [
         "posts/2026-11-20-free-check/20nov-free-check-1.jpg",
@@ -564,7 +564,12 @@
         "posts/2026-11-20-free-check/20nov-free-check-1.jpg",
         "posts/2026-11-20-free-check/20nov-free-check-2.jpg"
       ],
-      "approved_at": "2026-11-16 11:08 UTC"
+      "approved_at": "2026-11-16 11:08 UTC",
+      "posted": {
+        "instagram": "17866960011695608",
+        "facebook": "662761746930877_122189999144977882"
+      },
+      "posted_at": "2026-11-20 09:03"
     },
     {
       "id": "2026-11-24-linkedin-account-read",
