@@ -666,6 +666,102 @@
         "posts/2026-11-27-black-friday-day/27nov-black-friday-day-2.jpg"
       ],
       "approved_at": "2026-11-16 11:08 UTC"
+    },
+    {
+      "id": "2026-12-01-linkedin-creative-engine",
+      "when": "2026-12-01 08:30",
+      "platforms": [
+        "linkedin"
+      ],
+      "status": "awaiting_approval",
+      "code": "01-LI",
+      "images": [
+        "posts/2026-12-01-creative-engine/01dec-creative-engine-1.jpg"
+      ],
+      "alt": "Vizz Ads card: AI makes the picture. We write the words.",
+      "linkedin_text": "Most AI ad pictures fall down on the words: wrong font, a misspelt offer, a price that's slightly off.\n\nSo at @Vizz Ads we split the job in two.\n\n→ AI makes the picture\nEvery picture starts as a checked brief, and the AI leaves space for the words but draws none of them.\n\n→ We set the words\nHeadline, offer and button go on afterwards, in the brand's own fonts, the same way every time.\n\n→ Every word gets read back\nAn automatic check confirms every line and every number before a person looks at it.\n\nThe result: when an offer or a legal line changes, we change the words, not the picture.\n\nWhat slows down your new ads the most?",
+      "page_reshare": "Most AI ad pictures fall down on the words. Here's how we keep the picture and the words apart."
+    },
+    {
+      "id": "2026-12-01-creative-engine",
+      "when": "2026-12-01 09:00",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "01-IGFB",
+      "images": [
+        "posts/2026-12-01-creative-engine/01dec-creative-engine-1.jpg",
+        "posts/2026-12-01-creative-engine/01dec-creative-engine-2.jpg"
+      ],
+      "alt": "Vizz Ads carousel: AI makes the picture. We write the words. Picture first, words second.",
+      "caption": "AI makes the picture. We write the words.\n\nEvery ad picture we make starts as a checked brief. AI makes the picture with no text on it, and the words go on afterwards, in the brand's own fonts:\n1. A checked brief for every picture\n2. AI makes it, with no text\n3. Words set in the brand's real fonts\n4. Every word read back before anyone sees it\n\nSo a headline, an offer or a legal line can change without making a new picture.\n\nWhat slows down your new ads the most?\n\n#metaads #paidsocial #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "AI makes the picture. We write the words.\n\nEvery ad picture we make starts as a checked brief. AI makes the picture with no text on it, and the words go on afterwards, in the brand's own fonts:\n1. A checked brief for every picture\n2. AI makes it, with no text\n3. Words set in the brand's real fonts\n4. Every word read back before anyone sees it\n\nSo a headline, an offer or a legal line can change without making a new picture.\n\nWhat slows down your new ads the most?",
+      "x_text": "AI makes the picture. We write the words.\n\n→ A checked brief for every picture\n→ AI makes it, with no text\n→ Words set in the brand's own fonts\n→ Every word read back\n\nSo the words can change without a new picture.\n\nWhat slows down your new ads the most?",
+      "x_images": [
+        "posts/2026-12-01-creative-engine/01dec-creative-engine-1.jpg",
+        "posts/2026-12-01-creative-engine/01dec-creative-engine-2.jpg"
+      ]
+    },
+    {
+      "id": "2026-12-03-linkedin-free-first-step",
+      "when": "2026-12-03 08:30",
+      "platforms": [
+        "linkedin"
+      ],
+      "status": "awaiting_approval",
+      "code": "03-LI",
+      "images": [
+        "posts/2026-12-03-free-first-step/03dec-free-first-step-1.jpg"
+      ],
+      "alt": "Vizz Ads card: We rebuilt our website around one free first step.",
+      "linkedin_text": "We rebuilt the @Vizz Ads website around one idea: you should see what we'd find before you pay us anything.\n\nSo there are now three steps, and the first one is free:\n\n→ Free Competitor Ad Check\nYour live Meta ads against up to three rivals'. 3 gaps, 3 tests, in 48 hours. No card, no access to your ad account.\n\n→ Ad Creative Analysis\nA deeper read of your ads and your rivals', with a list of what to change first.\n\n→ Ad Account Deep Audit\nInside the account: what worked, what failed, what was never tried, and a 90-day plan.\n\nStart outside your account. Go inside only when it's worth it.\n\nThe free check is at vizzads.com/competitor-ad-check",
+      "page_reshare": "You should see what we'd find before you pay us anything. That's why the first step on our new website is free."
+    },
+    {
+      "id": "2026-12-03-free-first-step",
+      "when": "2026-12-03 09:00",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "03-IGFB",
+      "images": [
+        "posts/2026-12-03-free-first-step/03dec-free-first-step-1.jpg",
+        "posts/2026-12-03-free-first-step/03dec-free-first-step-2.jpg"
+      ],
+      "alt": "Vizz Ads carousel: We rebuilt our website around one free first step. Three steps, free first.",
+      "caption": "We rebuilt our website around one free first step.\n\nBefore you pay us anything, you see where your rivals' ads are ahead of yours. Three steps:\n1. Free Competitor Ad Check: 3 gaps and 3 tests, in 48 hours\n2. Ad Creative Analysis: a deeper read of your ads and your rivals'\n3. Ad Account Deep Audit: inside your account, with a 90-day plan\n\nStart outside your account. Go inside only when it's worth it.\n\nStart free at vizzads.com/competitor-ad-check\n\n#metaads #competitoranalysis #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "We rebuilt our website around one free first step.\n\nBefore you pay us anything, you see where your rivals' ads are ahead of yours. Three steps:\n1. Free Competitor Ad Check: 3 gaps and 3 tests, in 48 hours\n2. Ad Creative Analysis: a deeper read of your ads and your rivals'\n3. Ad Account Deep Audit: inside your account, with a 90-day plan\n\nStart outside your account. Go inside only when it's worth it.\n\nStart free at vizzads.com/competitor-ad-check",
+      "x_text": "We rebuilt our website around one free first step.\n\n→ Free Competitor Ad Check: 3 gaps, 3 tests, 48 hours\n→ Ad Creative Analysis\n→ Ad Account Deep Audit\n\nSee where your rivals' ads are ahead of yours before you pay anything. Link in the reply.",
+      "x_images": [
+        "posts/2026-12-03-free-first-step/03dec-free-first-step-1.jpg",
+        "posts/2026-12-03-free-first-step/03dec-free-first-step-2.jpg"
+      ]
+    },
+    {
+      "id": "2026-12-04-inside-the-check",
+      "when": "2026-12-04 09:00",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "04-IGFB",
+      "images": [
+        "posts/2026-12-04-inside-the-check/04dec-inside-the-check-1.jpg",
+        "posts/2026-12-04-inside-the-check/04dec-inside-the-check-2.jpg"
+      ],
+      "alt": "Vizz Ads carousel: Inside a Free Competitor Ad Check on a made-up brand. Three gaps, three tests.",
+      "caption": "What a Free Competitor Ad Check finds, shown on Oakhollow Home, a made-up homeware brand.\n\nAll three rivals were already selling Christmas. Oakhollow had no holiday ads at all. The three gaps:\n1. No holiday ads: 3 of 3 rivals run them, Oakhollow runs 0\n2. Product on white: rivals show it in a real room, Oakhollow never does\n3. Free delivery: on its homepage, in none of its ads\n\nEach gap is counted from public ads, with one test to close it.\n\nGet yours free in 48 hours at vizzads.com/competitor-ad-check\n\n#metaads #competitoranalysis #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "What a Free Competitor Ad Check finds, shown on Oakhollow Home, a made-up homeware brand.\n\nAll three rivals were already selling Christmas. Oakhollow had no holiday ads at all. The three gaps:\n1. No holiday ads: 3 of 3 rivals run them, Oakhollow runs 0\n2. Product on white: rivals show it in a real room, Oakhollow never does\n3. Free delivery: on its homepage, in none of its ads\n\nEach gap is counted from public ads, with one test to close it.\n\nGet yours free in 48 hours at vizzads.com/competitor-ad-check",
+      "x_text": "Inside a Free Competitor Ad Check, on a made-up brand:\n\n→ 3 of 3 rivals run holiday ads. Our sample brand: 0\n→ Rivals show the product at home. It shows it on white\n→ Free delivery on its homepage, in none of its ads\n\n3 gaps, 3 tests. Free, in 48 hours. Link in the reply.",
+      "x_images": [
+        "posts/2026-12-04-inside-the-check/04dec-inside-the-check-1.jpg",
+        "posts/2026-12-04-inside-the-check/04dec-inside-the-check-2.jpg"
+      ]
     }
   ]
 }
