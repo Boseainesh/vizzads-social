@@ -79,8 +79,8 @@ showcase(p % 1, "navy", "INSIDE A FREE CHECK",
          shot=[S + "competitor-ad-check-both-cover.jpg", S + "competitor-ad-check-google-2-gaps.jpg"],
          caption="Sample check for a made-up brand")
 card(p % 2, "cream", "WHAT IT FOUND",
-     ["Gaps on"], coral_last="each platform.",
-     items=["Meta: no holiday ads", "Meta: no free delivery line",
-            "Google: a rival on its name", "Google: no video ads"],
-     body=["Each counted from public ads,", "with a test to close it."],
+     ["Real brand,"], coral_last="real gaps.",
+     items=["Meta: Christmas, 7 of 175", "Meta: delivery, 0 of 175",
+            "Google: 7 new ads vs 57+", "Google: 9 video ads vs 26+"],
+     body=["A UK homeware brand we tested,", "name withheld."],
      closing=["Get yours free in 48 hours:", "vizzads.com/competitor-ad-check"])
