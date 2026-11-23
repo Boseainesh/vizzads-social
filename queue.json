@@ -577,17 +577,17 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "code": "23-LI",
       "images": [
         "posts/2026-11-23-google-check/23nov-google-check-1.jpg"
       ],
       "alt": "Vizz Ads card: Who's on your own name on Google? We check, free. A sample Google Competitor Ad Check for a made-up brand.",
-      "linkedin_text": "Who's sitting on your brand name on Google?\n\nPeople who type your name have already chosen you. If a rival's ad sits above yours there, it's the last thing they read before they click.\n\nThe @Vizz Ads Free Competitor Ad Check now covers Google as well as Meta:\n\n→ Every ad Google lists for you and up to three rivals, from its public Ads Transparency Center\n→ Live searches on your name and your category, run three times across a day\n→ A scorecard, the three biggest gaps and three tests to close them, in 48 hours\n\nWhy three times? Google shows different ads at different times. An ad not seen in one search can still be running, so we report \"seen in 2 of 3 checks\", never a plain yes or no.\n\nIn our sample, a made-up homeware brand, a rival's Black Friday ad sat above the brand on its own name in 2 of 3 checks.\n\nFree, no card, no access to your ad account. Pick Meta, Google or both: vizzads.com/competitor-ad-check",
+      "linkedin_text": "Who's sitting on your brand name on Google?\n\nPeople who type your name have already chosen you. If a rival's ad sits above yours there, it's the last thing they read before they click.\n\nThe @Vizz Ads Free Competitor Ad Check now covers Google as well as Meta:\n\n→ Every ad Google lists for you and up to three rivals, from its public Ads Transparency Center\n→ Live searches on your name and your category, run three times across a day\n→ A scorecard, the three biggest gaps and three tests to close them, in 48 hours\n\nWhy three times? Google shows different ads at different times. An ad not seen in one search can still be running, so we report \"seen in 2 of 3 checks\", never a plain yes or no.\n\nWe tested it on a real UK homeware brand (name withheld). On a search for its own brand name, rival ads were seen in 2 of 2 checks: one rival the first time, three different rivals the second. And over 30 days, its three rivals each put out 57 or more new Google ads. It put out 7.\n\nFree, no card, no access to your ad account. Pick Meta, Google or both: vizzads.com/competitor-ad-check",
       "page_reshare": "Our Free Competitor Ad Check now covers Google too: who's seen on your name, and the three gaps your rivals are filling.",
       "badge": "Google · new",
       "urgent_label": "Google Free Competitor Ad Check · LinkedIn",
-      "urgent": true
+      "approved_at": "2026-11-23T08:59:18Z"
     },
     {
       "id": "2026-11-23-google-check",
@@ -595,15 +595,15 @@
       "platforms": [
         "facebook"
       ],
-      "status": "awaiting_approval",
+      "status": "approved",
       "code": "23-FB",
       "images": [
         "posts/2026-11-23-google-check/23nov-google-check-1.jpg",
         "posts/2026-11-23-google-check/23nov-google-check-2.jpg"
       ],
       "alt": "Vizz Ads card: Who's on your own name on Google? We check, free. A sample Google Competitor Ad Check for a made-up brand.",
-      "caption": "Who's on your own name on Google?\n\nOur Free Competitor Ad Check now covers Google as well as Meta:\n1. Every ad Google lists for you and up to three rivals\n2. Live searches on your name and your category, run three times across a day\n3. A scorecard, 3 gaps and 3 tests, in your inbox within 48 hours\n\nShown here on a sample for a made-up brand: a rival's Black Friday ad sat above it on its own name in 2 of 3 checks.\n\nFree, no card, no access to your ad account. Pick Meta, Google or both at vizzads.com/competitor-ad-check\n\n#googleads #paidsearch #ukbusiness #ecommerceuk #vizzads",
-      "facebook_caption": "Who's on your own name on Google?\n\nOur Free Competitor Ad Check now covers Google as well as Meta:\n1. Every ad Google lists for you and up to three rivals\n2. Live searches on your name and your category, run three times across a day\n3. A scorecard, 3 gaps and 3 tests, in your inbox within 48 hours\n\nShown here on a sample for a made-up brand: a rival's Black Friday ad sat above it on its own name in 2 of 3 checks.\n\nFree, no card, no access to your ad account. Pick Meta, Google or both at vizzads.com/competitor-ad-check",
+      "caption": "Who's on your own name on Google?\n\nOur Free Competitor Ad Check now covers Google as well as Meta:\n1. Every ad Google lists for you and up to three rivals\n2. Live searches on your name and your category, run three times across a day\n3. A scorecard, 3 gaps and 3 tests, in your inbox within 48 hours\n\nWe tested it on a real UK homeware brand (name withheld). On a search for its own brand name, rival ads were seen in 2 of 2 checks. Over 30 days, its rivals each put out 57 or more new Google ads. It put out 7.\n\nFree, no card, no access to your ad account. Pick Meta, Google or both at vizzads.com/competitor-ad-check\n\n#googleads #paidsearch #ukbusiness #ecommerceuk #vizzads",
+      "facebook_caption": "Who's on your own name on Google?\n\nOur Free Competitor Ad Check now covers Google as well as Meta:\n1. Every ad Google lists for you and up to three rivals\n2. Live searches on your name and your category, run three times across a day\n3. A scorecard, 3 gaps and 3 tests, in your inbox within 48 hours\n\nWe tested it on a real UK homeware brand (name withheld). On a search for its own brand name, rival ads were seen in 2 of 2 checks. Over 30 days, its rivals each put out 57 or more new Google ads. It put out 7.\n\nFree, no card, no access to your ad account. Pick Meta, Google or both at vizzads.com/competitor-ad-check",
       "x_text": "Who's on your own name on Google?\n\nOur Free Competitor Ad Check now covers Google:\n→ Every ad Google lists for you and 3 rivals\n→ Your name and category searched 3 times a day\n→ 3 gaps, 3 tests, in 48 hours\n\nFree. Meta, Google or both. Link in the reply.",
       "x_images": [
         "posts/2026-11-23-google-check/23nov-google-check-1.jpg",
@@ -611,7 +611,7 @@
       ],
       "badge": "Google · new",
       "urgent_label": "Google Free Competitor Ad Check · Facebook + X",
-      "urgent": true
+      "approved_at": "2026-11-23T08:59:18Z"
     },
     {
       "id": "2026-11-24-linkedin-account-read",
