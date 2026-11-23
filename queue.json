@@ -599,7 +599,7 @@
       "platforms": [
         "facebook"
       ],
-      "status": "approved",
+      "status": "posted",
       "code": "23-FB",
       "images": [
         "posts/2026-11-23-google-check/23nov-google-check-1.jpg",
@@ -615,7 +615,11 @@
       ],
       "badge": "Google · new",
       "urgent_label": "Google Free Competitor Ad Check · Facebook + X",
-      "approved_at": "2026-11-23T08:59:18Z"
+      "approved_at": "2026-11-23T08:59:18Z",
+      "posted": {
+        "facebook": "662761746930877_122190514472977882"
+      },
+      "posted_at": "2026-11-23 09:03"
     },
     {
       "id": "2026-11-24-linkedin-account-read",
