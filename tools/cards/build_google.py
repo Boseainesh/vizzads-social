@@ -80,7 +80,7 @@ showcase(p % 1, "navy", "INSIDE A FREE CHECK",
          caption="Sample check for a made-up brand")
 card(p % 2, "cream", "WHAT IT FOUND",
      ["Real brand,"], coral_last="real gaps.",
-     items=["Meta: Christmas, 7 of 175", "Meta: delivery, 0 of 175",
+     items=["Meta: Christmas, 7 of 175", "Meta: Christmas delivery, 0",
             "Google: 7 new ads vs 57+", "Google: 9 video ads vs 26+"],
      body=["A UK homeware brand we tested,", "name withheld."],
      closing=["Get yours free in 48 hours:", "vizzads.com/competitor-ad-check"])
