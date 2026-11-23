@@ -577,7 +577,7 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "approved",
+      "status": "posted",
       "code": "23-LI",
       "images": [
         "posts/2026-11-23-google-check/23nov-google-check-1.jpg"
@@ -587,7 +587,11 @@
       "page_reshare": "Our Free Competitor Ad Check now covers Google too: who's seen on your name, and the three gaps your rivals are filling.",
       "badge": "Google · new",
       "urgent_label": "Google Free Competitor Ad Check · LinkedIn",
-      "approved_at": "2026-11-23T08:59:18Z"
+      "approved_at": "2026-11-23T08:59:18Z",
+      "posted": {
+        "linkedin": "urn:li:share:7530555630722420736"
+      },
+      "posted_at": "2026-11-23 08:59"
     },
     {
       "id": "2026-11-23-google-check",
