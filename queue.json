@@ -627,7 +627,7 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "approved",
+      "status": "posted",
       "code": "24-LI",
       "images": [
         "posts/2026-11-24-account-read/24nov-account-read-1.jpg"
@@ -635,7 +635,11 @@
       "alt": "Vizz Ads card: We read first, then we change.",
       "linkedin_text": "The most expensive thing in a new ad account is changing too much in week one.\n\nSo at @Vizz Ads every new account starts with a read, not a rebuild. We go through its whole history and sort every ad into three piles:\n\n→ Working\nProven ideas we build on, with new versions of what already wins.\n\n→ Tired\nIdeas that worked but have been seen too often. They need a fresh take, not a new strategy.\n\n→ Still learning\nToo new to judge. Touching them now just resets the clock.\n\nOnly then do we change anything. It's built into our system, so it happens the same way on every account.\n\nWhich pile is your best ad in?",
       "page_reshare": "The most expensive thing in a new ad account is changing too much in week one. Here's how we read an account first.",
-      "approved_at": "2026-11-16 11:08 UTC"
+      "approved_at": "2026-11-16 11:08 UTC",
+      "posted": {
+        "linkedin": "urn:li:share:7530911018621894656"
+      },
+      "posted_at": "2026-11-24 08:31"
     },
     {
       "id": "2026-11-24-account-read",
