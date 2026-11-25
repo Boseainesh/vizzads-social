@@ -675,7 +675,7 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "approved",
+      "status": "posted",
       "code": "25-LI",
       "images": [
         "posts/2026-11-25-google-analysis/25nov-google-analysis-1.jpg"
@@ -686,7 +686,11 @@
       "badge": "Google · new",
       "urgent_label": "Google Ad Creative Analysis · LinkedIn",
       "change_note": "Updated 23 Nov: real test data (homeware brand, name withheld) instead of the made-up sample.",
-      "approved_at": "2026-11-23T14:04:55Z"
+      "approved_at": "2026-11-23T14:04:55Z",
+      "posted": {
+        "linkedin": "urn:li:share:7531281345596002304"
+      },
+      "posted_at": "2026-11-25 09:03"
     },
     {
       "id": "2026-11-25-google-analysis",
@@ -694,7 +698,7 @@
       "platforms": [
         "facebook"
       ],
-      "status": "approved",
+      "status": "posted",
       "code": "25-FB",
       "images": [
         "posts/2026-11-25-google-analysis/25nov-google-analysis-1.jpg",
@@ -711,7 +715,11 @@
       "badge": "Google · new",
       "urgent_label": "Google Ad Creative Analysis · Facebook + X",
       "change_note": "Updated 23 Nov: real test data (homeware brand, name withheld) instead of the made-up sample.",
-      "approved_at": "2026-11-23T14:04:55Z"
+      "approved_at": "2026-11-23T14:04:55Z",
+      "posted": {
+        "facebook": "662761746930877_122190868274977882"
+      },
+      "posted_at": "2026-11-25 09:03"
     },
     {
       "id": "2026-11-26-linkedin-ad-gates",
