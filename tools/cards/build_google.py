@@ -76,7 +76,7 @@ card(p % 2, "navy", "START HERE",
 p = R + "2026-12-04-inside-the-check/04dec-inside-the-check-%d.jpg"
 showcase(p % 1, "navy", "INSIDE A FREE CHECK",
          ["Meta and Google,"], coral_last="one free check.",
-         shot=[S + "competitor-ad-check-both-cover-v2.jpg", S + "competitor-ad-check-google-2-gaps-v2.jpg"],
+         shot=[S + "competitor-ad-check-both-cover-v2.jpg", S + "competitor-ad-check-google-2-gaps-v3.jpg"],
          caption="Sample check for a made-up brand")
 card(p % 2, "cream", "WHAT IT FOUND",
      ["Real brand,"], coral_last="real gaps.",
