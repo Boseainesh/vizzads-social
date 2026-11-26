@@ -748,7 +748,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "approved",
+      "status": "posted",
       "code": "26-IGFB",
       "images": [
         "posts/2026-11-26-ad-gates/26nov-ad-gates-1.jpg",
@@ -762,7 +762,12 @@
         "posts/2026-11-26-ad-gates/26nov-ad-gates-1.jpg",
         "posts/2026-11-26-ad-gates/26nov-ad-gates-2.jpg"
       ],
-      "approved_at": "2026-11-16 11:08 UTC"
+      "approved_at": "2026-11-16 11:08 UTC",
+      "posted": {
+        "instagram": "17969252490223641",
+        "facebook": "662761746930877_122191062050977882"
+      },
+      "posted_at": "2026-11-26 09:03"
     },
     {
       "id": "2026-11-27-black-friday-day",
