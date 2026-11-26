@@ -36,7 +36,7 @@ card(p % 2, "navy", "WHAT'S IN IT",
 p = R + "2026-11-30-google-deep-audit/30nov-google-deep-audit-%d.jpg"
 showcase(p % 1, "navy", "AD ACCOUNT DEEP AUDIT · GOOGLE",
          ["How much of your", "Performance Max is"], coral_last="your own name?",
-         shot=S + "hi_da-05-v2.jpg", crop=(0.04, 0.03, 0.96, 0.50),
+         shot=S + "hi_da-05-v3.jpg", crop=(0.04, 0.03, 0.96, 0.50),
          caption="Sample Google audit for a made-up brand")
 card(p % 2, "cream", "THE GOOGLE DEEP AUDIT",
      ["Each campaign judged"], coral_last="on its own job.",
