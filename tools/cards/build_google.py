@@ -56,7 +56,7 @@ card(p % 2, "navy", "WHAT WE LEARNED",
      ["One search"], coral_last="proves nothing.",
      items=["Dates matched to the day", "Every search run 3 times",
             "Ad blocker off for every check", "Performance Max, seen in public"],
-     closing=["Free, on Meta or Google:", "vizzads.com/competitor-ad-check"])
+     closing=["Free, on Meta or Google:", "vizzads.com/competitor-ad-check"], gradient=True)
 
 # ---- THU 3 DEC · slide 2 now says Meta, Google or both (cream first unchanged)
 p = R + "2026-12-03-free-first-step/03dec-free-first-step-%d.jpg"
@@ -70,7 +70,7 @@ card(p % 2, "navy", "START HERE",
      ["Three steps,"], coral_last="free first.",
      items=["Free Competitor Ad Check", "Ad Creative Analysis", "Ad Account Deep Audit"],
      body=["Meta, Google or both.", "Start outside your account."],
-     closing=["Start free, in 48 hours:", "vizzads.com/competitor-ad-check"])
+     closing=["Start free, in 48 hours:", "vizzads.com/competitor-ad-check"], gradient=True)
 
 # ---- FRI 4 DEC · Inside a free check, Meta and Google (navy first unchanged)
 p = R + "2026-12-04-inside-the-check/04dec-inside-the-check-%d.jpg"
