@@ -36,7 +36,7 @@ card(p % 2, "navy", "WHAT'S IN IT",
 p = R + "2026-11-30-google-deep-audit/30nov-google-deep-audit-%d.jpg"
 showcase(p % 1, "navy", "AD ACCOUNT DEEP AUDIT · GOOGLE",
          ["How much of your", "Performance Max is"], coral_last="your own name?",
-         shot=S + "hi_da-05.jpg", crop=(0.04, 0.03, 0.96, 0.50),
+         shot=S + "hi_da-05-v2.jpg", crop=(0.04, 0.03, 0.96, 0.50),
          caption="Sample Google audit for a made-up brand")
 card(p % 2, "cream", "THE GOOGLE DEEP AUDIT",
      ["Each campaign judged"], coral_last="on its own job.",
@@ -76,7 +76,7 @@ card(p % 2, "navy", "START HERE",
 p = R + "2026-12-04-inside-the-check/04dec-inside-the-check-%d.jpg"
 showcase(p % 1, "navy", "INSIDE A FREE CHECK",
          ["Meta and Google,"], coral_last="one free check.",
-         shot=[S + "competitor-ad-check-both-cover.jpg", S + "competitor-ad-check-google-2-gaps.jpg"],
+         shot=[S + "competitor-ad-check-both-cover-v2.jpg", S + "competitor-ad-check-google-2-gaps-v2.jpg"],
          caption="Sample check for a made-up brand")
 card(p % 2, "cream", "WHAT IT FOUND",
      ["Real brand,"], coral_last="real gaps.",
