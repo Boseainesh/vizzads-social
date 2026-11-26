@@ -727,7 +727,7 @@
       "platforms": [
         "linkedin"
       ],
-      "status": "approved",
+      "status": "posted",
       "code": "26-LI",
       "images": [
         "posts/2026-11-26-ad-gates/26nov-ad-gates-1.jpg"
@@ -735,7 +735,11 @@
       "alt": "Vizz Ads card: Every Monday, every ad gets a verdict.",
       "linkedin_text": "\"Let's give it another week\" is how most ad budgets leak.\n\nAt @Vizz Ads we replaced it with a Monday checklist. Every live ad is judged against fixed pass marks, set from the account's own best results, and checked against the shop's own new customers, not just the platform's numbers.\n\nEach ad gets one of four verdicts:\n\n→ Keep: it passes, so we build on it\n→ Refresh: the idea works, the version is tired\n→ Fix: people click but don't buy, so we fix the page or the offer, not the ad\n→ Stop: it fails, so the money moves to what works\n\nSame rules, every account, every week. No gut feel.\n\nHow do you decide when to switch an ad off?",
       "page_reshare": "\"Let's give it another week\" is how most ad budgets leak. Here's the Monday checklist we use instead.",
-      "approved_at": "2026-11-16 11:08 UTC"
+      "approved_at": "2026-11-16 11:08 UTC",
+      "posted": {
+        "linkedin": "urn:li:share:7531635901706334209"
+      },
+      "posted_at": "2026-11-26 08:32"
     },
     {
       "id": "2026-11-26-ad-gates",
