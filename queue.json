@@ -776,7 +776,7 @@
         "instagram",
         "facebook"
       ],
-      "status": "approved",
+      "status": "posted",
       "code": "27-IGFB",
       "images": [
         "posts/2026-11-27-black-friday-day/27nov-black-friday-day-1.jpg",
@@ -790,7 +790,12 @@
         "posts/2026-11-27-black-friday-day/27nov-black-friday-day-1.jpg",
         "posts/2026-11-27-black-friday-day/27nov-black-friday-day-2.jpg"
       ],
-      "approved_at": "2026-11-16 11:08 UTC"
+      "approved_at": "2026-11-16 11:08 UTC",
+      "posted": {
+        "instagram": "17886272523628559",
+        "facebook": "662761746930877_122191333922977882"
+      },
+      "posted_at": "2026-11-27 09:03"
     },
     {
       "id": "2026-11-30-linkedin-google-deep-audit",
