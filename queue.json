@@ -983,6 +983,102 @@
       ],
       "change_note": "Updated 23 Nov: real test data (homeware brand, name withheld) instead of the made-up sample.",
       "approved_at": "2026-11-23T14:04:55Z"
+    },
+    {
+      "id": "2026-12-08-linkedin-ai-and-people",
+      "when": "2026-12-08 08:30",
+      "platforms": [
+        "linkedin"
+      ],
+      "status": "awaiting_approval",
+      "code": "08-LI",
+      "images": [
+        "posts/2026-12-08-ai-and-people/08dec-ai-and-people-1.jpg"
+      ],
+      "alt": "Vizz Ads card: AI does the reading. A person makes the call.",
+      "linkedin_text": "We use AI all through how we run ads. A person still makes every call that matters.\n\nWhere AI does the work:\n→ Reading every live ad a brand and its rivals run, on Meta and Google. Not a sample\n→ Running Google searches on your name and your category three times across a day, because one search proves nothing\n→ Making ad pictures, with the words set separately in the brand's own fonts\n→ Fact-checking each report with a second, separate check before anyone reads it\n\nWhere a person decides:\n→ Which findings matter, and what to test first\n→ Every report and email, read before it reaches you\n→ What changes in an ad account, and when\n\nAI makes the reading fast and complete. The judgement stays with people at @Vizz Ads.\n\nEven this post: drafted with AI, approved by me before it went out.\n\nWhere would you trust AI with your ads, and where wouldn't you?",
+      "page_reshare": "How we use AI to read ads at full scale, and where a person still makes every call."
+    },
+    {
+      "id": "2026-12-08-ai-and-people",
+      "when": "2026-12-08 09:00",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "08-IGFB",
+      "images": [
+        "posts/2026-12-08-ai-and-people/08dec-ai-and-people-1.jpg",
+        "posts/2026-12-08-ai-and-people/08dec-ai-and-people-2.jpg"
+      ],
+      "alt": "Vizz Ads carousel: AI does the reading, a person makes the call. AI reads, people decide.",
+      "caption": "AI does the reading. A person makes the call.\n\nWhere AI does the work:\n1. Reading every live ad, yours and your rivals', on Meta and Google\n2. Running each Google search three times across a day\n3. Fact-checking every report with a second, separate check\n\nWhere a person decides: which findings matter, what to test first, and everything that reaches you.\n\nWhere would you trust AI with your ads?\n\n#metaads #googleads #aiinmarketing #ukbusiness #vizzads",
+      "facebook_caption": "AI does the reading. A person makes the call.\n\nWhere AI does the work:\n1. Reading every live ad, yours and your rivals', on Meta and Google\n2. Running each Google search three times across a day\n3. Fact-checking every report with a second, separate check\n\nWhere a person decides: which findings matter, what to test first, and everything that reaches you.\n\nWhere would you trust AI with your ads?",
+      "x_text": "AI does the reading. A person makes the call.\n\n→ Every live ad read, Meta and Google\n→ Every search run 3 times a day\n→ Every report fact-checked\n→ Every call made by a person\n\nWhere would you trust AI with your ads?",
+      "x_images": [
+        "posts/2026-12-08-ai-and-people/08dec-ai-and-people-1.jpg",
+        "posts/2026-12-08-ai-and-people/08dec-ai-and-people-2.jpg"
+      ]
+    },
+    {
+      "id": "2026-12-10-linkedin-creative-analysis",
+      "when": "2026-12-10 08:30",
+      "platforms": [
+        "linkedin"
+      ],
+      "status": "awaiting_approval",
+      "code": "10-LI",
+      "images": [
+        "posts/2026-12-10-creative-analysis/10dec-creative-analysis-1.jpg"
+      ],
+      "alt": "Vizz Ads card: Every ad you're running, read and counted. Sample Meta and Google Ad Creative Analysis reports for a made-up brand.",
+      "linkedin_text": "Before you change your ads, brief a new ad partner or bring ads in-house, it helps to know exactly what you're running.\n\nThat's what the @Vizz Ads Ad Creative Analysis is for. On Meta, on Google, or both:\n\n→ Every live ad read and counted, not a sample\n→ Your homepage's claims against what your ads actually say\n→ Your rivals' ads side by side with yours\n→ On Google: who is seen on your brand name across three checks, plus Shopping and Google video ads\n→ A work list in order, each item marked as a settings change, new copy or new creative\n\nOne report per platform, each with a deck for your team.\n\nFrom a real test on a UK homeware brand (name withheld):\nOn Meta, 150 of its 175 ads were seen talking about the makers behind its products; none was seen naming one.\nOn Google, its homepage promised delivery before Christmas; that line was not seen in any of the 14 search ad versions we read.\n\nBoth easy to fix, once you can see them.\n\nThe sample reports are at vizzads.com/ad-creative-analysis",
+      "page_reshare": "What's in an Ad Creative Analysis, and who it's for, on Meta and Google."
+    },
+    {
+      "id": "2026-12-10-creative-analysis",
+      "when": "2026-12-10 09:00",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "10-IGFB",
+      "images": [
+        "posts/2026-12-10-creative-analysis/10dec-creative-analysis-1.jpg",
+        "posts/2026-12-10-creative-analysis/10dec-creative-analysis-2.jpg"
+      ],
+      "alt": "Vizz Ads carousel: Every ad you're running, read and counted. One report per platform.",
+      "caption": "Every ad you're running, read and counted.\n\nThe Ad Creative Analysis, on Meta, Google or both:\n1. Every live ad read and counted, not a sample\n2. Your homepage's claims against your ads\n3. Your rivals, side by side\n4. A work list in order, for your team\n\nOne report per platform. From a real test on a UK homeware brand (name withheld): 150 of its 175 Meta ads were seen talking about its makers, and none was seen naming one.\n\nSee the sample reports at vizzads.com/ad-creative-analysis\n\n#metaads #googleads #adcreative #ukbusiness #vizzads",
+      "facebook_caption": "Every ad you're running, read and counted.\n\nThe Ad Creative Analysis, on Meta, Google or both:\n1. Every live ad read and counted, not a sample\n2. Your homepage's claims against your ads\n3. Your rivals, side by side\n4. A work list in order, for your team\n\nOne report per platform. From a real test on a UK homeware brand (name withheld): 150 of its 175 Meta ads were seen talking about its makers, and none was seen naming one.\n\nSee the sample reports at vizzads.com/ad-creative-analysis",
+      "x_text": "Every ad you're running, read and counted.\n\nOur Ad Creative Analysis, Meta and Google:\n→ Every live ad read\n→ Homepage claims vs your ads\n→ Rivals side by side\n→ A work list, in order\n\nOne report per platform. Samples in the reply.",
+      "x_images": [
+        "posts/2026-12-10-creative-analysis/10dec-creative-analysis-1.jpg",
+        "posts/2026-12-10-creative-analysis/10dec-creative-analysis-2.jpg"
+      ]
+    },
+    {
+      "id": "2026-12-11-three-gaps",
+      "when": "2026-12-11 09:00",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "status": "awaiting_approval",
+      "code": "11-IGFB",
+      "images": [
+        "posts/2026-12-11-three-gaps/11dec-three-gaps-1.jpg",
+        "posts/2026-12-11-three-gaps/11dec-three-gaps-2.jpg"
+      ],
+      "alt": "Vizz Ads carousel: 3 gaps we find again and again. Which one is yours?",
+      "caption": "3 gaps we find again and again, on Meta and on Google:\n\n1. Your best claim isn't in your ads. The line your homepage leads with (free delivery, a guarantee, a low fee) isn't seen in any ad.\n2. Rivals on your own name. Search your brand on Google and a rival's ad sits right there, sometimes above yours.\n3. Too few new ads. Rivals put out dozens of new ads a month; you put out a handful.\n\nEach one is fixable this week. Which one is yours?\n\nWe'll show you, free, against up to three rivals, in 48 hours: vizzads.com/competitor-ad-check\n\n#metaads #googleads #competitoranalysis #ukbusiness #vizzads",
+      "facebook_caption": "3 gaps we find again and again, on Meta and on Google:\n\n1. Your best claim isn't in your ads. The line your homepage leads with (free delivery, a guarantee, a low fee) isn't seen in any ad.\n2. Rivals on your own name. Search your brand on Google and a rival's ad sits right there, sometimes above yours.\n3. Too few new ads. Rivals put out dozens of new ads a month; you put out a handful.\n\nEach one is fixable this week. Which one is yours?\n\nWe'll show you, free, against up to three rivals, in 48 hours: vizzads.com/competitor-ad-check",
+      "x_text": "3 gaps we find again and again, Meta and Google:\n\n→ Your best claim isn't in your ads\n→ Rivals on your own brand name\n→ Too few new ads\n\nWhich one is yours? Free check against up to 3 rivals, in 48 hours. Link in the reply.",
+      "x_images": [
+        "posts/2026-12-11-three-gaps/11dec-three-gaps-1.jpg",
+        "posts/2026-12-11-three-gaps/11dec-three-gaps-2.jpg"
+      ]
     }
   ]
 }
